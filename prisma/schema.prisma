@@ -1,0 +1,153 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id          String    @id @default(cuid())
+  name        String
+  email       String    @unique
+  password    String
+  role        Role
+  rank        String?
+  serviceNo   String?   @unique
+  zoneId      String?
+  stateId     String?
+  lgaId       String?
+  approved    Boolean   @default(false)
+  suspended   Boolean   @default(false)
+  createdAt   DateTime  @default(now())
+  lastLogin   DateTime?
+
+  @@index([role])
+  @@index([stateId])
+  @@index([lgaId])
+  @@index([zoneId])
+}
+
+model Zone {
+  id     String  @id @default(cuid())
+  name   String
+  code   String  @unique
+  states State[]
+}
+
+model State {
+  id     String @id @default(cuid())
+  name   String
+  code   String @unique
+  zoneId String
+  zone   Zone   @relation(fields: [zoneId], references: [id])
+  lgas   LGA[]
+
+  @@index([zoneId])
+}
+
+model LGA {
+  id           String        @id @default(cuid())
+  name         String
+  stateId      String
+  state        State         @relation(fields: [stateId], references: [id])
+  pollingUnits PollingUnit[]
+  divisions    Division[]
+
+  @@index([stateId])
+}
+
+model Division {
+  id    String @id @default(cuid())
+  name  String
+  lgaId String
+  lga   LGA    @relation(fields: [lgaId], references: [id])
+
+  @@index([lgaId])
+}
+
+model PollingUnit {
+  id          String       @id @default(cuid())
+  inecCode    String       @unique
+  name        String
+  lgaId       String
+  lga         LGA          @relation(fields: [lgaId], references: [id])
+  ward        String?
+  address     String?
+  capacity    Int?
+  assignments Assignment[]
+
+  @@index([lgaId])
+}
+
+model Officer {
+  id          String       @id @default(cuid())
+  serviceNo   String       @unique
+  name        String
+  rank        String
+  gender      String?
+  phone       String?
+  stateId     String
+  lgaId       String?
+  divisionId  String?
+  photo       String?
+  importBatch String?
+  createdAt   DateTime     @default(now())
+  assignments Assignment[]
+
+  @@index([stateId])
+  @@index([lgaId])
+}
+
+model Assignment {
+  id            String           @id @default(cuid())
+  officerId     String
+  pollingUnitId String
+  officer       Officer          @relation(fields: [officerId], references: [id])
+  pollingUnit   PollingUnit      @relation(fields: [pollingUnitId], references: [id])
+  role          String?
+  status        AssignmentStatus @default(PENDING)
+  createdAt     DateTime         @default(now())
+  dutyCard      DutyCard?
+
+  @@index([officerId])
+  @@index([pollingUnitId])
+  @@index([status])
+}
+
+model DutyCard {
+  id           String     @id @default(cuid())
+  assignmentId String     @unique
+  assignment   Assignment @relation(fields: [assignmentId], references: [id])
+  generatedAt  DateTime   @default(now())
+  pdfUrl       String?
+  barcodeData  String?
+}
+
+model ImportBatch {
+  id          String   @id @default(cuid())
+  filename    String
+  uploadedBy  String
+  recordCount Int
+  status      String
+  createdAt   DateTime @default(now())
+}
+
+enum Role {
+  IGP
+  AIG
+  CP
+  DPO
+  SPO
+}
+
+enum AssignmentStatus {
+  PENDING
+  CONFIRMED
+  DEPLOYED
+  ABSENT
+}
