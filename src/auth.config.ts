@@ -48,6 +48,11 @@ const protectedPrefixes = [
 ];
 
 export const authConfig = {
+  // Vercel (and most reverse-proxy hosts) set X-Forwarded-Host correctly,
+  // so trusting it here is safe; without this, Auth.js rejects every
+  // request in production with "UntrustedHost" (dev mode trusts implicitly,
+  // which is why this only surfaces in a production build).
+  trustHost: true,
   pages: {
     signIn: "/login",
   },
