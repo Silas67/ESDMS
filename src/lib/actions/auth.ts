@@ -4,7 +4,8 @@ import bcrypt from "bcryptjs";
 import { CredentialsSignin } from "next-auth";
 import { prisma } from "@/lib/prisma";
 import { signIn, signOut } from "@/auth";
-import { LoginSchema, RegisterSchema } from "@/lib/validations/auth";
+import { verifySession } from "@/lib/dal";
+import { LoginSchema, RegisterSchema, ChangePasswordSchema } from "@/lib/validations/auth";
 
 export type LoginState = {
   errors?: { email?: string[]; password?: string[] };
@@ -95,4 +96,41 @@ export async function register(_state: RegisterState, formData: FormData): Promi
 
 export async function logout() {
   await signOut({ redirectTo: "/login" });
+}
+
+export type ChangePasswordState = {
+  errors?: Record<string, string[]>;
+  message?: string;
+  success?: boolean;
+} | undefined;
+
+export async function changePassword(
+  _state: ChangePasswordState,
+  formData: FormData
+): Promise<ChangePasswordState> {
+  const session = await verifySession();
+
+  const parsed = ChangePasswordSchema.safeParse({
+    currentPassword: formData.get("currentPassword"),
+    newPassword: formData.get("newPassword"),
+    confirmNewPassword: formData.get("confirmNewPassword"),
+  });
+  if (!parsed.success) {
+    return { errors: parsed.error.flatten().fieldErrors };
+  }
+
+  const user = await prisma.user.findUnique({ where: { id: session.user.id } });
+  if (!user) {
+    return { message: "Account not found." };
+  }
+
+  const currentMatches = await bcrypt.compare(parsed.data.currentPassword, user.password);
+  if (!currentMatches) {
+    return { errors: { currentPassword: ["Current password is incorrect."] } };
+  }
+
+  const hashedPassword = await bcrypt.hash(parsed.data.newPassword, 12);
+  await prisma.user.update({ where: { id: user.id }, data: { password: hashedPassword } });
+
+  return { success: true };
 }
