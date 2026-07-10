@@ -67,6 +67,7 @@ export default async function PollingUnitsPage({
               <Button
                 variant="outline"
                 size="sm"
+                nativeButton={false}
                 render={
                   <Link
                     href={`/polling-units?page=${page - 1}${q ? `&q=${encodeURIComponent(q)}` : ""}`}
@@ -84,6 +85,7 @@ export default async function PollingUnitsPage({
               <Button
                 variant="outline"
                 size="sm"
+                nativeButton={false}
                 render={
                   <Link
                     href={`/polling-units?page=${page + 1}${q ? `&q=${encodeURIComponent(q)}` : ""}`}

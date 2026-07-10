@@ -68,6 +68,7 @@ export default async function AdminPage({
                 <Button
                   variant="outline"
                   size="sm"
+                  nativeButton={false}
                   render={
                     <Link href={`/admin?page=${page - 1}${q ? `&q=${encodeURIComponent(q)}` : ""}`} />
                   }
@@ -83,6 +84,7 @@ export default async function AdminPage({
                 <Button
                   variant="outline"
                   size="sm"
+                  nativeButton={false}
                   render={
                     <Link href={`/admin?page=${page + 1}${q ? `&q=${encodeURIComponent(q)}` : ""}`} />
                   }

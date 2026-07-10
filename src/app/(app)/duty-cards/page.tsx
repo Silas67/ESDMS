@@ -66,6 +66,7 @@ export default async function DutyCardsPage({
               <Button
                 variant="outline"
                 size="sm"
+                nativeButton={false}
                 render={
                   <Link
                     href={`/duty-cards?page=${page - 1}${q ? `&q=${encodeURIComponent(q)}` : ""}`}
@@ -83,6 +84,7 @@ export default async function DutyCardsPage({
               <Button
                 variant="outline"
                 size="sm"
+                nativeButton={false}
                 render={
                   <Link
                     href={`/duty-cards?page=${page + 1}${q ? `&q=${encodeURIComponent(q)}` : ""}`}

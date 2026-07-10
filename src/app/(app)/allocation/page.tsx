@@ -76,6 +76,7 @@ export default async function AllocationPage({
               <Button
                 variant="outline"
                 size="sm"
+                nativeButton={false}
                 render={
                   <Link
                     href={`/allocation?page=${page - 1}${q ? `&q=${encodeURIComponent(q)}` : ""}`}
@@ -93,6 +94,7 @@ export default async function AllocationPage({
               <Button
                 variant="outline"
                 size="sm"
+                nativeButton={false}
                 render={
                   <Link
                     href={`/allocation?page=${page + 1}${q ? `&q=${encodeURIComponent(q)}` : ""}`}

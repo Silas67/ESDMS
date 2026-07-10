@@ -1,0 +1,892 @@
+[
+  {
+    "state": "abuja",
+    "lgas": [
+      {
+        "lga": "abaji",
+        "wards": [
+          {
+            "ward": "abaji-central",
+            "polling_units": [
+              "ung-maikano-kofar-mai-unguwa",
+              "ung-manko-kofar-unguwar-manko",
+              "ung-liman-kofar-unguwar-liman"
+            ]
+          },
+          {
+            "ward": "abaji-north-east",
+            "polling_units": [
+              "isah-m-gani-old-ona-palace",
+              "ung-nupawa-maternity-centre",
+              "ung-anyura-gidan-anyura",
+              "ung-hussaini-wanzami",
+              "ung-mallam-mansur",
+              "abaji-ne-central-pry-school"
+            ]
+          },
+          {
+            "ward": "abaji-south-east",
+            "polling_units": [
+              "old-onas-palace-old-onas-palace",
+              "ung-danmazari-gidan-danmazari",
+              "a-u-suleman-ung-a-u-suleman",
+              "ung-s-samari-ung-s-samari"
+            ]
+          },
+          {
+            "ward": "agyana-pandagi",
+            "polling_units": [
+              "agyana-agyana-primary-school",
+              "pandagi-pandagi-primary-school",
+              "nanda-nanda-primary-school",
+              "kunguni-kunguni-primary-school"
+            ]
+          },
+          {
+            "ward": "alu-mamagi",
+            "polling_units": [
+              "mamagi-mamagi-primary-school",
+              "alu-alu-primary-school",
+              "mamagi-mamagi-primary-school-mawogi",
+              "paciwa-paciwa-primary-school"
+            ]
+          },
+          {
+            "ward": "gawu",
+            "polling_units": [
+              "gawu-town-gawu-primary-school",
+              "yelwan-gawu-yelwan-gawu-primary-school",
+              "jamigbe-jamigbe",
+              "mawogi-mawogi-primary-school",
+              "sabongurara-gurara-primary-school",
+              "tungan-usman-tungan-usman-primary-school"
+            ]
+          },
+          {
+            "ward": "gurdi",
+            "polling_units": [
+              "gurdi-gurdi-primary-school",
+              "tekpeshe-primary-school",
+              "kutakara-kutakara-primary-school",
+              "gulida-gulida-primary-school",
+              "paikon-bassa-paikon-primary-school",
+              "kwakwa-kwakwa-primary-school",
+              "barabari-barabari-primary-school",
+              "chakumi-chakumi-village-square",
+              "kwakwata-village-square"
+            ]
+          },
+          {
+            "ward": "nuku",
+            "polling_units": [
+              "ung-akwai-allah-gidan-akwai-allah",
+              "nuku-nuku-primary-school",
+              "nuku-nuku-pry-school",
+              "abaji-east-abaji-east-primary-school-i",
+              "manderegi-manderegi-primary-school",
+              "kekeshi-kekeshi-village"
+            ]
+          },
+          {
+            "ward": "rimba-ebagi",
+            "polling_units": [
+              "ebagi-ebagi-primary-school",
+              "rimba-rimba-primary-school",
+              "naharati-sabo-naharati-primary-school",
+              "naharati-tsoho-nharati-tsoho-primary-school",
+              "tupa-tupa-primary-school",
+              "rimba-gwari-rimba-gwari-village-square"
+            ]
+          },
+          {
+            "ward": "yaba",
+            "polling_units": [
+              "yaba-town-yaba-primary-school-i",
+              "majelu-majelu-village-square",
+              "lafiyan-yaba-lafiyan-yaba-primary-school",
+              "kpace-kpace-primary-school",
+              "madani-madani-primary-school",
+              "kuloro-kuluro-primary-school",
+              "adagba-adagba-primary-school",
+              "durumi-durumi-primary-village-square"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "abuja-municipal",
+        "wards": [
+          {
+            "ward": "city-centre",
+            "polling_units": [
+              "area-i-sect-i-area-i-pri-sch",
+              "area-ii-sect-ii-f-g-guest-house",
+              "area-ii-sect-i-i-park-garden",
+              "area-2-sect-i-i-nat-library-mokwa-street",
+              "area-2-sect-i-i-env-protection-board",
+              "area-2-sect-i-i-amusement-park-opp-area-ii",
+              "area-3-shopping-centre-nysc-dhsq",
+              "area-7-b-w-blocl-i-8-ii-navy-close",
+              "area-8-opp-block-flat-1-mohd-buhari-way",
+              "area-10-post-office",
+              "area-10-council-for-arts-culture",
+              "area-11-infront-of-block-4-yelwa-close",
+              "presidential-villa-police-affairs-commission",
+              "o-v-a-o-v-a-camp-i",
+              "o-v-a-o-v-a-camp-ii",
+              "sani-abacha-barracks",
+              "aso-hill-berger-berger-camp"
+            ]
+          },
+          {
+            "ward": "garki",
+            "polling_units": [
+              "garki-village-garki-dispensary",
+              "garki-village-near-da-a-social-club",
+              "garki-village-ii-former-pri-sch",
+              "garki-village-ii-new-pri-sch",
+              "garki-village-new-pri-sch-ii",
+              "security-post-garki-model-mkt-security-post",
+              "c-b-n-qrts-cbn-qrts-near-former-pri-sch",
+              "cbn-qrts-cbn-qrts-near-police-h-qrts",
+              "garki-iii-rd-junc-racheal-eye-clinic",
+              "asokoro-i-total-filling-station",
+              "asokoro-ii-new-capital-pri-sch",
+              "asokoro-iii-near-ecowas-secretariat",
+              "kurunduma-kurunduma-village",
+              "guzape-ung-fulani-guzape-village",
+              "kabin-madaki-village",
+              "apo-legies-qrts-legislature-s-qtrs",
+              "apo-legies-qrts-sec-post-to-mech-villlage",
+              "akpajenya-akpajenya-village",
+              "apo-village-near-dankogi-filling-station",
+              "durumi-i-durumi-pri-sch",
+              "durumi-ii-durumi-pri-sch",
+              "dutse-baba-dutse-baba-pri-school"
+            ]
+          },
+          {
+            "ward": "gui",
+            "polling_units": [
+              "gui-pada-gui-village",
+              "toge-toge-village",
+              "sauka-sauka-village",
+              "gbessa-gbessa-pri-sch",
+              "gosa-gosa-pri-school",
+              "iddo-sarki-iddo-sarki-pri-sch",
+              "iddo-mazhi-iddo-mazhi",
+              "nuwarege-nuwarege",
+              "airport-g-s-s-airport",
+              "t-wakili-tungan-wakili-village"
+            ]
+          },
+          {
+            "ward": "gwagwa",
+            "polling_units": [
+              "gwagwa-primary-school-galadima",
+              "gwagwa-ii-civic-centre",
+              "gwagwa-iii-primary-school",
+              "gwagwa-iv-primary-school",
+              "gwagwa-v-opp-gwagwa-market",
+              "tasha-tasha-village",
+              "karsana-karsana-village",
+              "kaba-kaba-village",
+              "kigini-kigini-village",
+              "saburi-saburi-villlage",
+              "filling-dabo-filling-dabo-villlage",
+              "zauda-village-i",
+              "zauda-village-ii",
+              "bagusa-bagusa-village",
+              "ung-maiyaki-ibrahim-after-brigade",
+              "liberty-area-by-liberty-hotel",
+              "gwagwa-6-along-gwagwa-jiwa-rd",
+              "gwagwa-7-gwagwa-before-brigde"
+            ]
+          },
+          {
+            "ward": "gwarinpa",
+            "polling_units": [
+              "life-camp-gate-i-minister-s-gate",
+              "life-camp-ii-market-gate-life-camp",
+              "life-camp-iii-gss-life-camp",
+              "gwarinpa-village-gwarinpa-pri-school",
+              "kado-estate-kado-estate-i",
+              "kado-estate-ii-kado-housing-estate",
+              "jayi-village-jayi-villlage-centre",
+              "jayi-fulani-jayi-fulani-express-villlage-centre",
+              "mabushi-mabushi-pri-school",
+              "utako-utako-village-centre",
+              "galadima-galadima-villlage-centre",
+              "jabi-sarki-jabi-pri-school",
+              "jabi-maje-jabi-pri-school",
+              "kado-village-i-kado-opp-life-camp",
+              "kado-village-ii-kado-raya-ung",
+              "karon-majigi-karon-majigi-pri-school",
+              "kado-kauchi-kado-kauchi-village-centre",
+              "kuchigoro-kuchigoro-pri-sch",
+              "piwoyi-piwoyi-pri-sch",
+              "finance-qtr-s-min-of-finance-qtrs-gate",
+              "gwarinpa-gwarinpa-estate-i",
+              "gwarinpa-gwarinpa-estate-ii"
+            ]
+          },
+          {
+            "ward": "jiwa",
+            "polling_units": [
+              "jiwa-tsoho-kofar-gidan-sarki",
+              "jiwa-i-jiwa-tv-viewing-centre",
+              "jiwa-ii-jiwa-pri-school",
+              "jiwa-iii-g-s-s-jiwa",
+              "bassan-jiwa-iii-bassan-jiwa-village-square",
+              "tunga-madaki-tunga-madaki-pri-sch",
+              "wukara-wukara-village-centre",
+              "wukara-dallatu-village-wukara",
+              "hulumi-hulumi-village-centre",
+              "idu-idu-village-primary-school",
+              "idu-ii-idu-village-primary-school",
+              "idu-iii-gidin-mangoro-masalachin-jumm-a",
+              "idu-iv-gidin-mangoro-masalachin-jumma-a",
+              "karmo-sabo-i-karmo-pri-school",
+              "karmo-saboii-karmo-pri-school",
+              "karmo-sabo-iii-opp-karmo-market",
+              "karmo-sabo-iv-behind-karmo-market",
+              "karmo-sabo-v-karmo-ungwar-koro",
+              "karmo-sabo-vi-karmo-ungwar-gwari",
+              "karmo-tsoho-karmo-tsoho"
+            ]
+          },
+          {
+            "ward": "kabusa",
+            "polling_units": [
+              "kabusa-kabusa-pri-sch",
+              "sharite-shareti-village-centre",
+              "ketti-ketti-pri-ii-school",
+              "wuru-wuru-pry-sch",
+              "burun-burun-pri-school",
+              "takunshara-takunshara-pri-school",
+              "pyakasa-pyakasa-pri-school",
+              "lugbe-i-ung-sarki-gidan-magoro",
+              "lugbe-ii-lugbe-pri-sch",
+              "new-lugbe-ii-market-square",
+              "zhidu-lugbe-zhidu-village-centre",
+              "aleyta-aleyta-pri-school",
+              "galadima-galadima-pri-school",
+              "lugbe-f-h-a-gate"
+            ]
+          },
+          {
+            "ward": "karshi",
+            "polling_units": [
+              "karshi-i-central-pri-sch",
+              "karshi-ii-market-square-karshi",
+              "karshi-iii-dispensory-opp-chief-palace",
+              "karshi-iv-kofar-gidan-liman",
+              "karshi-v-kutare-kareshi-dev-area-sect",
+              "karshi-tunga-village-centre",
+              "lekka-lekka-village-centre",
+              "kusaki-kusaki-village-centre",
+              "kafanty-kafanty-villlage-centre"
+            ]
+          },
+          {
+            "ward": "karu",
+            "polling_units": [
+              "ung-pashe-i-central-primary-sch",
+              "ung-pashe-i-b-t-s-karu",
+              "ung-pashe-agricultural-ext-office",
+              "ung-ginar-health-centre",
+              "ung-hausawa-i-karu-village-junction",
+              "ung-hausawa-ii-old-market-square",
+              "ung-hausawa-iii-after-salasi-rd-junction",
+              "karu-site-i-min-of-idus-qrts",
+              "karu-site-ii-old-nepa-office-junction",
+              "karu-site-iib-near-area-court",
+              "karu-site-ii-f-h-a-customs-quarters",
+              "karu-site-iv-cbn-qrts-junction-karshi-junction-i",
+              "karu-site-iv-cbn-qrts-junction-karshi-junction-ii",
+              "jikoyi-jikoyi-pri-sch",
+              "jikoyi-ii-jikoyi-tokka-village",
+              "jikoyi-ung-gade",
+              "jikoyi-jikwoyi-phase-iii"
+            ]
+          },
+          {
+            "ward": "nyanya",
+            "polling_units": [
+              "area-a1-infront-of-plot-8-9-area-a",
+              "area-aii-mkt-sqr-opp-plot-4",
+              "area-aiii-infront-of-plot-30",
+              "area-aiv-at-the-back-of-plot-33",
+              "area-b-opp-health-centre",
+              "area-ci-at-the-back-of-plot-134",
+              "area-cii-at-the-back-of-plot-125",
+              "area-di-central-pri-school",
+              "area-d-ii-central-pri-school-ii",
+              "area-ei-at-the-back-of-plot-109",
+              "area-eii-ung-bawa-pri-sch",
+              "area-ii-road-junction-mami-mkt",
+              "area-ii-road-junction-mami-market-ii",
+              "arae-fi-v-i-o-f-c-d-a-office",
+              "ung-bawa-ung-bawa-pri-school",
+              "ung-bawa-ung-bawanyanya-village",
+              "ung-bawa-ung-bawanyanya-village-ii",
+              "nyaya-village-kofar-sarki",
+              "nyaya-village-ii-ung-hausawa",
+              "f-h-a-f-h-a-along-nyaya-2-karu-rd",
+              "gbagarape-gbagarape-village-centre"
+            ]
+          },
+          {
+            "ward": "orozo",
+            "polling_units": [
+              "orozo-orozo-pri-school",
+              "ung-sarki-ung-sarki-village-centre",
+              "guguggu-gugugug-pri-sch",
+              "kurudu-kurudu-pri-sch",
+              "chori-bisa-chori-bisa-village-centre",
+              "azhata-azhata-near-e-c-w-a-church",
+              "kpegyi-kpegyi-near-e-c-w-a-church",
+              "gidan-mangoro-gidan-mangoro-village-centre"
+            ]
+          },
+          {
+            "ward": "wuse",
+            "polling_units": [
+              "wuse-zone-i-near-habib-bank",
+              "wuze-zone-i-nat-ass-prov-offfice",
+              "wuze-zone-ii-wuse-i-pri-sch",
+              "wuze-zone-ii-wuse-i-pri-sch-ii",
+              "wuze-zone-ii-security-post-two",
+              "wuze-zone-iii-g-s-s-wuse",
+              "wuse-zone-iii-g-s-s-wuse",
+              "wuse-zone-iii-wuse-ii-pri-sch",
+              "wuse-zone-iv-g-s-s-tudun-wada",
+              "wuse-zone-iv-ibrahim-sani-abacha-estate-gate",
+              "wuse-zone-iv-model-pri-school",
+              "wuse-zone-6-wuse-iii-pri-school",
+              "wuse-zone-6-yaunde-st-opp-road-safety-bk",
+              "wuse-zone-6-dev-control-office",
+              "wuse-zone-7-security-post-education-bank",
+              "wuse-2-a-p-plaza-oau-qrts-near-a-p-plaza",
+              "wuse-2-a-p-plaza-o-a-u-qtrs-near-a-p-plaza",
+              "wuse-2-bannex-plaza-rd-junction-bannex-plaza",
+              "wuse-2-british-emb-oau-qrts-opp-british-emb",
+              "minister-s-hill-i-niger-emb-missipi-rd",
+              "minister-s-hill-ii-folade-oke-int-l-sch",
+              "f-h-a-i-maitama-rd-junction-abuja-guest-inn",
+              "f-h-a-i-maitama-rd-junction-zeco-spec-hospital",
+              "maitama-i-model-pri-sch",
+              "maitama-2-model-secondary-sch-maitama",
+              "maitama-3-rd-junction-gana-usman-nicon-hilton",
+              "maitama-aso-drive-i-round-about",
+              "wuse-ii-fcda-qrts-opp-minis-qrts",
+              "f-c-d-a-qrts-ptf-qrts-security-gate",
+              "airwave-hotel-fsp-gate",
+              "rock-view-hotel-junction-national-health-insurance-scheme-office",
+              "nig-99-sect-nicon-insurance-staff-qtrs",
+              "wuse-ii-mercy-specialist-hospital-junction"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "bwari",
+        "wards": [
+          {
+            "ward": "bwari-central",
+            "polling_units": [
+              "bwari-i-central-pry-school",
+              "bwari-ii-central-pry-school",
+              "bwari-sarki-near-chief-palace",
+              "bwari-iv-kogo-near-fsp-milling",
+              "baran-goni-pry-school",
+              "zuma-zuma-village-centre",
+              "gaba-pry-school"
+            ]
+          },
+          {
+            "ward": "byazhin",
+            "polling_units": [
+              "byazhin-byazhin-primary-school",
+              "zhiko-zhiko-village",
+              "ija-bisa-ija-bisa-village",
+              "kuchibuyi-kuchibuyi-village",
+              "paspa-paspa-village",
+              "chikakore-chikakore-village",
+              "kugaboku-kugaboku-villlage"
+            ]
+          },
+          {
+            "ward": "dutse-alhaji",
+            "polling_units": [
+              "dutse-alhaji-i-ii-dutse-primary-school",
+              "dutse-alhaji-iii-dutse-village",
+              "sagwari-sagwari-pri-school",
+              "dawaki-dawaki-village",
+              "gidan-bawa-gidan-bawa-village",
+              "mpape-i-mpape-primary-school",
+              "katampe-katampe-village",
+              "shishipe-shishipe-village"
+            ]
+          },
+          {
+            "ward": "igu",
+            "polling_units": [
+              "igu-igu-primary-school",
+              "tokulo-tokulo-primary-school",
+              "kaima-kaima-primary-school",
+              "panunuke-panunuke-village",
+              "igu-koro-infront-of-chief-s-palace"
+            ]
+          },
+          {
+            "ward": "kawu",
+            "polling_units": [
+              "kawu-kawu-primary-sch",
+              "kurumi-daudu-kurui-daudu",
+              "kaudashi-kaudashi",
+              "padan-gwari",
+              "tunga-bijimi-tunga-bimiji",
+              "adaka-gbagyi-chief-s-palace",
+              "dokuma-dokuma-primary-sch",
+              "kute-kute-primary-sch",
+              "karako-karako"
+            ]
+          },
+          {
+            "ward": "kubwa",
+            "polling_units": [
+              "kubwa-village-kofar-sarki",
+              "bazango-kofar-sarki",
+              "kukwaba-i-kukwaba-market",
+              "kukwaba-ii-security-post-nysc-camp",
+              "kukwaba-iii-behind-saque-pharmacy",
+              "maitama-i-ii-kubwa-primary-school",
+              "maitama-iv-kofar-sarki-maitama-sabo",
+              "maitama-v-kofar-sarki-tsoho",
+              "daidai-daidai-primary-school",
+              "daidai-sabo-sabon-daidai-village",
+              "dakwa-dakwa-village"
+            ]
+          },
+          {
+            "ward": "kuduru",
+            "polling_units": [
+              "bwari-tudun-wada-jamb-secretariat-i",
+              "bwari-tudun-wada-jamb-secretariat-ii",
+              "bwari-staff-qtrs-security-post-fggc",
+              "kuchiko-c-d-s-old-gss-bwari",
+              "sabon-gari-rugan-fulani-nomadic-primary-school",
+              "zango-bwari-zango",
+              "kuduru-security-post-new-gss-bwari"
+            ]
+          },
+          {
+            "ward": "shere",
+            "polling_units": [
+              "share-koro-share-koro-pri-school",
+              "share-gwari-share-gwari-pri-school",
+              "galuwyi-galuwyi-primary-school",
+              "galuwy-i-pry-school-ii",
+              "sunpe-sunpe-village",
+              "durumi-durumi-village",
+              "piko-piko-villlage",
+              "gudupe-gudupe-village"
+            ]
+          },
+          {
+            "ward": "ushafa",
+            "polling_units": [
+              "ushafa-i-ii-ushafa-primary-school",
+              "lower-usman-dam-security-post-opp-ascon",
+              "jigo-jigo-primary-school",
+              "peyi-kwaban-village-centre"
+            ]
+          },
+          {
+            "ward": "usuma",
+            "polling_units": [
+              "phase-ii-site-ii-road-junction-near-b-k-124",
+              "phase-ii-site-ii-b-k-79-at-the-back-of-b-k-79",
+              "phase-i-site1-pw-i-ii-pw-primary-school",
+              "phase-i-sitei-pw-iii-opp-living-water-pharmacy",
+              "phase-i-site-i-pwiv-rd-junction-national-mathmatical-centre-staff-qtr",
+              "fha-3rd-avenue-i-model-primary-school",
+              "fha-3rd-avenue-ii-iii-security-post-fha-clinic",
+              "berger-camp-i-ii-berger-camp-security-post-7-i",
+              "phase-iii-rd-junction-opp-model-school",
+              "phase-i-site-i-road-junction-corner-shops",
+              "phase-i-site-i-road-junction-one-two-market",
+              "phase-iv-phase-iv-junction",
+              "owner-occupier-security-gate"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "gwagwalada",
+        "wards": [
+          {
+            "ward": "dobi",
+            "polling_units": [
+              "ung-sarki-dobi-pri-sch-dobi",
+              "ung-sarki-dobi-b-c-pri-sch-dobi",
+              "kaida-sabo-kaida-sabo-pri-sch",
+              "pebeyi-pebeyi-pri-sch",
+              "wumi-wumi-pri-sch",
+              "tungan-sarki-tsuani-tsauni-pri-sch",
+              "kwalita-kwalita-pry-sch",
+              "pagada-pagada-pri-sch",
+              "maje-kofar-gidan-sarki",
+              "kaida-tsoho-pri-sch"
+            ]
+          },
+          {
+            "ward": "gwagwalada-centre",
+            "polling_units": [
+              "dagiri-i-infront-of-village-head-s-house",
+              "dagiri-ii-dagiri-primary-school",
+              "dagiri-iii-in-front-of-venus-house",
+              "sabon-gari-i-demonstration-pri-sch",
+              "sabon-gari-ii-demonstration-pri-sch",
+              "sabon-gari-iii-demonstration-pri-sch",
+              "ung-basa-i-old-market-square",
+              "ung-basa-ii-infront-of-tanko-s-house",
+              "ung-dodo-infront-of-ward-s-heads-house",
+              "ung-dodo-ung-dodo-primary-school"
+            ]
+          },
+          {
+            "ward": "gwako",
+            "polling_units": [
+              "gwako-town-pri-sch",
+              "malauni-kpakuru-kpakuru-pri-sch",
+              "univ-qtrs-tukunya-security-gate",
+              "giri-giri-pri-sch",
+              "kpasele-kofar-gidan-sarki"
+            ]
+          },
+          {
+            "ward": "ibwa",
+            "polling_units": [
+              "ibwa-sarki-pri-sch-ibwa",
+              "rafin-zurfi-rafin-zurfi-pri-sch",
+              "dukwa-dukwa-pri-sch",
+              "gurfata-gurufata-pri-sch",
+              "ika-i-ii-kofar-sarki",
+              "kwamuku-kofar-sarki-kwamuku"
+            ]
+          },
+          {
+            "ward": "ikwa",
+            "polling_units": [
+              "ikwa-ikwa-pri-sch",
+              "tungan-ladan-pri-sch",
+              "shaga-bassan-zuba-shaga-pri-sch",
+              "chitumu-kofar-gidan-sarki"
+            ]
+          },
+          {
+            "ward": "kutunku",
+            "polling_units": [
+              "kutunku-i-primary-school",
+              "kutunku-ii-women-centre",
+              "ung-fulani-i-health-clinic",
+              "ung-fulani-ii-town-hall",
+              "ung-jeshi-i-i-daki-jeshi-house",
+              "ung-jeshi-i-infront-of-chief-s-house",
+              "ung-gade-kofar-gidan-sarki"
+            ]
+          },
+          {
+            "ward": "paiko",
+            "polling_units": [
+              "paiko-kore-sarki-paiko-pri-sch",
+              "izom-fulani-bagada-pri-sch",
+              "passo-passo-pri-sch",
+              "kace-kace-pri-sch",
+              "kaida-tsoho-kofar-sarki"
+            ]
+          },
+          {
+            "ward": "staff-quarters",
+            "polling_units": [
+              "phase-i-gado-nasko-pri-sch",
+              "phase-i-b-c-gado-nasko-pri-sch",
+              "phase-ii-op-university-gate",
+              "phase-ii-a-op-university-gate",
+              "phase-iii-pri-sch",
+              "phase-iii-a-behind-university-of-abuja",
+              "phase-iii-b-phase-iii-pri-sch",
+              "kontagora-new-housing-estate"
+            ]
+          },
+          {
+            "ward": "tungan-maje",
+            "polling_units": [
+              "tungan-maje-tungan-maje-pri-sch",
+              "yelwan-zuba-yelwa-zuba-pri-sch",
+              "anagada-anagada-pri-sch",
+              "shanagu-shanagu-pri-sch",
+              "shishida-kofar-gidan-sarki",
+              "chezeko-chezeko-pri-sch",
+              "ung-samu-health-clinic"
+            ]
+          },
+          {
+            "ward": "zuba",
+            "polling_units": [
+              "ung-sarki-pri-sch",
+              "sabon-gari-zuba-clinic",
+              "ung-kasa-infront-of-madaki-house",
+              "sabon-kasuwa-nurtw-office"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "kuje",
+        "wards": [
+          {
+            "ward": "chibiri",
+            "polling_units": [
+              "chibiri-chibiri-primary-school",
+              "kiyi-kiyi-primary-sch",
+              "shetigo-shetigo-primary-school",
+              "passali-passali-primary-school",
+              "chukuku-chukuku-primary-school",
+              "lanto-lanto-primary-school"
+            ]
+          },
+          {
+            "ward": "gaube",
+            "polling_units": [
+              "gaube-primary-school",
+              "paggi-primary-school",
+              "dibe-primary-school",
+              "kusaki-primary-school",
+              "yanga-primary-school",
+              "gidigwai-primary-school",
+              "gidan-bawa-primary-school",
+              "dafara-primary-school",
+              "gawu-kurmi-primary-school",
+              "kahoda-hannu-primary-school",
+              "gwaupe-primary-school",
+              "gude-kofar-sarki"
+            ]
+          },
+          {
+            "ward": "gudun-karya",
+            "polling_units": [
+              "gudun-karya-primary-school",
+              "huni-primary-school",
+              "darka-primary-school",
+              "affa-primary-school",
+              "adegba-tashara-primary-school",
+              "buga-primary-school",
+              "zagabutu-primary-school",
+              "gudun-kar-yagade-kofar-sarki"
+            ]
+          },
+          {
+            "ward": "gwargwada",
+            "polling_units": [
+              "gwargada-pry-school",
+              "gwargada-gangiyei",
+              "gombe-primary-school",
+              "tusha-primary-school",
+              "gwagwada-kpana-primary-school",
+              "pesu-kofar-gidan-madaki"
+            ]
+          },
+          {
+            "ward": "kabi",
+            "polling_units": [
+              "kabi-kassa-primary-school",
+              "kabi-mangoro-primary-school",
+              "agwai-primary-school",
+              "gumayi-primary-school",
+              "duda-primary-school",
+              "tude-primary-school",
+              "achimbi-primary-school"
+            ]
+          },
+          {
+            "ward": "kuje",
+            "polling_units": [
+              "kuje-central-central-pri-sch",
+              "kayarda-kayarda-pri-sch",
+              "sauka-kofar-sarki",
+              "low-cost-mass-agency",
+              "godoji-godoji-primary-sch",
+              "tukpeki-tukpeki-pri-sch"
+            ]
+          },
+          {
+            "ward": "kujekwa",
+            "polling_units": [
+              "kujekwa-primary-school",
+              "odu-primary-school",
+              "bida-primary-school",
+              "gidan-bawa-primary-school",
+              "sabe-kofar-gidan-madaki"
+            ]
+          },
+          {
+            "ward": "kwaku",
+            "polling_units": [
+              "sabo-primary-school",
+              "kwaku-primary-school",
+              "gadoro-pri-school",
+              "chida-primary-school",
+              "bugado-primary-school"
+            ]
+          },
+          {
+            "ward": "rubochi",
+            "polling_units": [
+              "rubochi-primary-school",
+              "rubochi-kofan-sarki",
+              "rubochi-ope",
+              "rubochi-ung-gade",
+              "attako-primary-school",
+              "kulo-primary-school",
+              "ukya-primary-school",
+              "tika-primary-school",
+              "ubo-gbagyi-primary-school",
+              "toto-gabiya-primary-school",
+              "ahinza-primary-school",
+              "zokutu-kofar-sarki"
+            ]
+          },
+          {
+            "ward": "yenche",
+            "polling_units": [
+              "yenche-primary-school",
+              "gbamfa-primary-school",
+              "gbede-primary-school",
+              "dnago-primary-school",
+              "yaba-kofar-sarki"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "kwali",
+        "wards": [
+          {
+            "ward": "ashara",
+            "polling_units": [
+              "ashara-primary-school",
+              "pukafa-gidan-sarki",
+              "falkara-kofar-sarki",
+              "fogbe-primary-school",
+              "maikwari-kofar-sarki",
+              "riwaza-village-square",
+              "kwanan-mada-kofar-sarki",
+              "takpeshe-kofar-sarki"
+            ]
+          },
+          {
+            "ward": "dafa",
+            "polling_units": [
+              "dafa-dada-primary-school",
+              "pada-magaji-gidan-sarki",
+              "gugwa-kofar-sarki",
+              "guli-primary-school"
+            ]
+          },
+          {
+            "ward": "gumbo",
+            "polling_units": [
+              "gumbo-primary-schol",
+              "kwaita-hausa-primary-schol",
+              "piri-primary-school",
+              "anini-village-square",
+              "kamadi-sabo-primary-school"
+            ]
+          },
+          {
+            "ward": "kilankwa",
+            "polling_units": [
+              "kilankwa-i-primary-school",
+              "kilankwa-ii-primary-school",
+              "petti-primary-school",
+              "sheda-galadima-primary-school",
+              "sheda-sarki-i-primary-school",
+              "sheda-sarki-ii-primary-school"
+            ]
+          },
+          {
+            "ward": "kundu",
+            "polling_units": [
+              "kundu-kofar-sarki",
+              "gomani-pri-sch",
+              "tunga-sarki-pri-sch",
+              "damakusa-village-centre"
+            ]
+          },
+          {
+            "ward": "kwali-ward",
+            "polling_units": [
+              "kwali-i-health-centre",
+              "kwali-ii-central-primary-school",
+              "kwali-yammah-viewing-centre",
+              "bonugo-primary-school",
+              "ungwan-hakimi-near-people-s-bank",
+              "kwali-normardic-rugan-fulani"
+            ]
+          },
+          {
+            "ward": "pai",
+            "polling_units": [
+              "pai-primary-school",
+              "dabi-village-square-near-pub-toilet",
+              "bako-primary-school",
+              "leleli-primary-school",
+              "ceceyi-primary-school"
+            ]
+          },
+          {
+            "ward": "wako",
+            "polling_units": [
+              "wako-primary-school",
+              "dangara-primary-school",
+              "bukpe-primary-school",
+              "chida-kofar-sarki",
+              "dangara-kudu-govt-sec-sch",
+              "yewuti-primary-school",
+              "ubo-sharu-primary-school",
+              "dapa-kofar-sarki",
+              "wako-ii-primary-school"
+            ]
+          },
+          {
+            "ward": "yangoji",
+            "polling_units": [
+              "yangoji-primary-school",
+              "sukuku-primary-school",
+              "kuroko-primary-school",
+              "ija-pada-primary-school",
+              "ija-dabuta-primary-school",
+              "ija-tampe-primary-school",
+              "daka-tampe-primary-school"
+            ]
+          },
+          {
+            "ward": "yebu",
+            "polling_units": [
+              "yebu-primary-school",
+              "kwaita-sabo-primary-school",
+              "kwaita-tsoho-kofar-sarki",
+              "leda-primary-school",
+              "kigbe-kofar-sarki",
+              "farakuti-kofar-sarki",
+              "yanbabu-kofar-sarki"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
