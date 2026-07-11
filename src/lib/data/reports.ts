@@ -37,7 +37,7 @@ export async function getCoverageSummary(scope: Scope) {
   };
 }
 
-async function pollingUnitCoverageByLga(lgaIds: string[]) {
+export async function pollingUnitCoverageByLga(lgaIds: string[]) {
   if (lgaIds.length === 0) return new Map<string, { total: number; covered: number }>();
 
   const [totals, covered] = await Promise.all([

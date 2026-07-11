@@ -1,0 +1,4801 @@
+[
+  {
+    "state": "osun",
+    "lgas": [
+      {
+        "lga": "atakumosa-east",
+        "wards": [
+          {
+            "ward": "ajebandele",
+            "polling_units": [
+              "l-a-school-ajebandele",
+              "st-john-s-pry-school-erinburo",
+              "l-a-pry-school-ayinrin-adedeji-i",
+              "open-space-oloworu-owode",
+              "emman-pry-school-lapaede",
+              "comm-pry-school-oke-odo",
+              "l-a-pry-school-atorin"
+            ]
+          },
+          {
+            "ward": "ayegunle",
+            "polling_units": [
+              "st-luke-s-odogbo",
+              "l-a-pry-school-ajido",
+              "comm-pry-school-faro",
+              "c-a-c-pry-school-akanni",
+              "open-space-aladura",
+              "itamerin"
+            ]
+          },
+          {
+            "ward": "eti-oni",
+            "polling_units": [
+              "eti-oni-open-space",
+              "l-a-pry-school-aladodo",
+              "ang-pry-school-alarere",
+              "court-hall-itapa",
+              "comm-pry-school-ayegunle",
+              "open-space-temidire-i",
+              "open-space-temidire-ii"
+            ]
+          },
+          {
+            "ward": "faforiji",
+            "polling_units": [
+              "st-felix-pry-schol-faforiji-i",
+              "st-felix-pry-school-faforiji-ii",
+              "town-hall-faforiji",
+              "agbon-jegede",
+              "suraju-pry-school-erinsebija",
+              "comm-pry-school-omiodo",
+              "comm-pry-school-abatuntun",
+              "ehin-oke"
+            ]
+          },
+          {
+            "ward": "forest-reserve-1",
+            "polling_units": [
+              "l-a-pry-school-onigbogi",
+              "open-space-onigbogi",
+              "sokoto-i",
+              "sokoto-ii",
+              "sokoto-s-b-ojo",
+              "ogundele",
+              "owada"
+            ]
+          },
+          {
+            "ward": "forest-reserve-ii",
+            "polling_units": [
+              "number",
+              "grammar-school-alaka",
+              "l-a-school-labosipo",
+              "timolaja-arowojobe",
+              "l-a-school-arewa",
+              "alonge-fajuke"
+            ]
+          },
+          {
+            "ward": "igangan",
+            "polling_units": [
+              "n-u-d-pry-schol-igangan",
+              "st-barth-school-igangan",
+              "apostolic-pry-school-oko-ago",
+              "st-luke-s-school-owode",
+              "open-space-ajumobi",
+              "open-space-sajuku"
+            ]
+          },
+          {
+            "ward": "iperindo",
+            "polling_units": [
+              "town-hall-iperindo-i",
+              "town-hall-iperindo-ii",
+              "temidire-grammar-school-iperindo",
+              "matt-cent-ago-isegun",
+              "comm-pry-school-oke-egun",
+              "comm-pry-school-kajola",
+              "cent-pry-school-aasa",
+              "ayeni-temidire"
+            ]
+          },
+          {
+            "ward": "ipole",
+            "polling_units": [
+              "town-hall-ipole",
+              "town-hall-odo-ijesa",
+              "st-andrew-ise-ijesa",
+              "l-a-school-imogbara",
+              "open-space-irogbo-ijemba",
+              "st-john-pry-school-idado"
+            ]
+          },
+          {
+            "ward": "iwara",
+            "polling_units": [
+              "town-hall-iwara",
+              "unity-pry-school-iwara",
+              "l-a-school-iwikun",
+              "methodist-pry-school-ayetoro",
+              "l-a-pry-school-ajebandele-asuku",
+              "open-space-iyinta",
+              "open-space-odo-iwara"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "atakumosa-west",
+        "wards": [
+          {
+            "ward": "ibodi",
+            "polling_units": [
+              "comm-grammar-school-ibodi",
+              "temidire-pry-school-ibodi",
+              "igila-village",
+              "iyere-village",
+              "osun-state-coll-of-education",
+              "ilotin-village"
+            ]
+          },
+          {
+            "ward": "ifelodun",
+            "polling_units": [
+              "epe-village",
+              "ijana-village",
+              "odo-iju-village",
+              "iyemogun-village",
+              "methodist-pry-school-igun",
+              "apepe-village"
+            ]
+          },
+          {
+            "ward": "ifewara-i",
+            "polling_units": [
+              "town-hall-ifewara",
+              "ogogo-doja-village",
+              "agbabiaka-village",
+              "n-u-d-pry-school-ifewara"
+            ]
+          },
+          {
+            "ward": "ifewara-ii",
+            "polling_units": [
+              "st-dominic-pry-school-ifewara",
+              "ifewara-high-school-i",
+              "ifewara-high-school-ii",
+              "aba-orunto",
+              "maternity-ifewara"
+            ]
+          },
+          {
+            "ward": "isa-obi",
+            "polling_units": [
+              "isaobi-pry-school",
+              "inasin-village",
+              "risawe-village",
+              "itaosan-village"
+            ]
+          },
+          {
+            "ward": "ita-gunmodi",
+            "polling_units": [
+              "town-hall-ita-gunmodi-i",
+              "itagummodi-ii-town-hall",
+              "alaba-owena-village",
+              "araromi-village",
+              "arigbabu-village",
+              "oke-ipa-village"
+            ]
+          },
+          {
+            "ward": "muroko",
+            "polling_units": [
+              "muroko-oke-awo",
+              "st-james-pry-school-ilaa",
+              "l-a-school-isolo",
+              "iloya-village",
+              "ipoye-village",
+              "esira-village"
+            ]
+          },
+          {
+            "ward": "oke-bode",
+            "polling_units": [
+              "oju-oja-okebode",
+              "st-john-pry-school-oke-bode",
+              "abebeyun-isedo-pry-schol",
+              "oke-osin-pry-school",
+              "l-a-pry-school-kajola",
+              "araromi-kajola",
+              "laala-village",
+              "asipa-saloro",
+              "l-a-pry-school-gidigbi",
+              "maternity-centre-osunjela"
+            ]
+          },
+          {
+            "ward": "osu-iii",
+            "polling_units": [
+              "methodist-pry-school-okeomi-osu",
+              "methodist-pry-school-osu",
+              "l-a-pry-school-ilowo-st-osu",
+              "pry-school-itamerin",
+              "comm-grammar-school-ajido-osu"
+            ]
+          },
+          {
+            "ward": "osu-i",
+            "polling_units": [
+              "methodist-primary-school-oke-oja-osu",
+              "c-s-pry-school-osu",
+              "aruaji-osu",
+              "atakunmosa-high-school-osu"
+            ]
+          },
+          {
+            "ward": "osu-ii",
+            "polling_units": [
+              "apostolic-pry-school-iwaro",
+              "pry-school-iloba",
+              "bara-village",
+              "pry-school-alakowe",
+              "ayorunbo-village",
+              "odesomi-village",
+              "pry-school-sasa",
+              "r-c-m-pry-school-kajola",
+              "comm-pry-school-asaobi",
+              "balogun-village",
+              "kanye-village"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ayedaade",
+        "wards": [
+          {
+            "ward": "anlugbua",
+            "polling_units": [
+              "gbogbo-village-gbogbo-village-orile-owu",
+              "oluwo-compd-oluwo-compd-orile-owu",
+              "farm-settlement-farm-settlement-orileowu",
+              "sabo-i-sabo-area",
+              "sabo-ii-sabo-area",
+              "st-peter-s-school-oke-ola-orile-owu",
+              "st-peter-s-school-oke-ola-orile-owu",
+              "court-hall-ojuoja-orile-owu",
+              "court-hall-oju-oja-orile-owu",
+              "baptist-pry-school-apena-area-orile-owu",
+              "bapt-pry-school-apena-area-orile-owu",
+              "motako-1-motako-village",
+              "motako-ii-motako-village",
+              "ope-ayoola-ope-ayoola-village",
+              "gbona-gbonna-village",
+              "abimbola-village-abimbola-village",
+              "motaka-ojetunde-motaka-ojetunde-village",
+              "alagbede-alagbede-village",
+              "community-pry-school-alabameta",
+              "alaguntan-alaguntan-village",
+              "barawo-barawo-village"
+            ]
+          },
+          {
+            "ward": "araromi-owu",
+            "polling_units": [
+              "araromi-owu-i-town-araromi-owu-town1",
+              "araromi-owu-ii-town-araromi-owu-town",
+              "araromi-owu-market-araromi-owu-town",
+              "sangodiran-sangodiran-village",
+              "idi-iroko-idi-iroko-village",
+              "mokore-mokore-village",
+              "ajegunle-ajegunle-village"
+            ]
+          },
+          {
+            "ward": "balogun",
+            "polling_units": [
+              "ile-asoro-opp-customary-court-gbongan",
+              "olufi-memorial-pry-schol-opp-s-s-s-office-gbongan",
+              "st-patrick-s-gramm-school-i-adenuga-area-gbongan",
+              "st-patrick-s-grammar-school-ii-adenuga-area-gbongan",
+              "moluberin-junction-new-road-area-gbongan",
+              "community-hall-oke-oje-area-gbongan"
+            ]
+          },
+          {
+            "ward": "gbongan-rural",
+            "polling_units": [
+              "d-c-akowide-akowide-village",
+              "ogbaagba-ogbaagba-village",
+              "wakajaiye-i-wakajaiye-village",
+              "wakajaiye-ii-wakajaiye-village",
+              "oloba-village-oloba-village",
+              "lagbaka-lagbaka-village",
+              "mojapa-mojapa-village",
+              "akiriboto-i-st-peter-s-akiriboto-i",
+              "akiriboto-ii-st-david-s-akiriboto-ii",
+              "akiriboto-iii-st-david-s-akiriboto-iii",
+              "akiriboto-alabe-akiriboto-village",
+              "oluwada-oluwada-village",
+              "alagbede-village-alagbede-village",
+              "bembe-village-bembe-village",
+              "akinjepe-village-akinjepe-village",
+              "elekiri-balogun-omole-elekiri-balogun",
+              "onimu-village-onimu-village"
+            ]
+          },
+          {
+            "ward": "ijegbe-oke-eso-oke-owu-ijugbe",
+            "polling_units": [
+              "court-hall-i-behind-arab-bank-ode-omu",
+              "court-hall-ii-behind-arab-bank-ode-omu",
+              "d-c-school-oke-eso-oke-eso-area-ode-omu",
+              "d-c-school-oke-eso-oke-eso-area-odeomu",
+              "igbira-isale-area-igbira-village-ode-omu",
+              "st-david-s-grammar-school-iwo-road-ode-omu",
+              "a-u-d-oke-ode-area-oke-ode-area-ode-omu",
+              "oke-owu-hall-i-oke-owu-area-odeomu",
+              "oke-owu-hall-ii-oke-owu-area-odeomu",
+              "oke-owu-hall-iii-oke-owu-area-ode-omu",
+              "oso-are-area-ile-oso-are-ode-omu",
+              "olusunde-area-olusunde-comp-odeomu",
+              "ketu-area-ketu-area-ode-omu",
+              "oluseyi-hall-fajob-s-comp-ode-omu",
+              "orona-area-orona-comp-ode-omu",
+              "igbira-oke-area-igbira-village-odeomu",
+              "bara-oluoja-oluoja-comp-ode-omu"
+            ]
+          },
+          {
+            "ward": "lagere-amola",
+            "polling_units": [
+              "st-pius-amola-area-ode-omu",
+              "st-pius-amola-area-ode-omu",
+              "d-c-amola-amola-area-ode-omu",
+              "st-michael-grammar-school-obada-area-ode-omu",
+              "a-u-d-pry-school-lagere-area-odeomu",
+              "the-apostolic-school-idi-asa-s-comp-odeomu",
+              "st-david-s-primary-school-obada-area-odeomu",
+              "idiose-ile-oke-ode-omu",
+              "alagbagun-hall-ala-gbagun-hall-odeomu",
+              "alagbaa-ile-alagbaa-ode-omu",
+              "lewere-i-lewere-comp-odeomu",
+              "lewere-ii-lewere-comp-odeomu",
+              "dispensary-ile-idi-asa-ode-omu",
+              "onile-area-ile-onile-aran-odeomu",
+              "oluwo-junction-ile-oluwo-odeomu",
+              "onitokun-area-onitokun-comp-odeomu"
+            ]
+          },
+          {
+            "ward": "obalufon",
+            "polling_units": [
+              "st-luke-s-school-i-oke-eso-orile-owu",
+              "st-luke-s-school-ii-oke-eso-orile-owu",
+              "dabongbe-dabongbe-village",
+              "gbeke-hall-gbeke-area-orile-owu",
+              "gbeke-hall-gbeke-village",
+              "fowosere-fowosere-village",
+              "baba-ijo-baba-ijo-village",
+              "aba-ibadan-aba-ibadan-village",
+              "atoba-village-atoba-village",
+              "abewela-village-abewela-village"
+            ]
+          },
+          {
+            "ward": "ode-omu-rural",
+            "polling_units": [
+              "kaje-onisango-kaje-onisango-village",
+              "d-c-school-lasolei-lasole-village",
+              "d-c-school-lasole-ii-lasole-village",
+              "c-a-c-ayetoro-tonkere-vilage",
+              "court-hall-tonkere-tonkere-town",
+              "st-jame-s-tonkere-tonkere-town",
+              "st-stephen-oogi-oogi-town",
+              "st-matthew-s-ejemu-ejemu-village",
+              "ojudo-village-ojudo-village",
+              "agbungu-agbungu-village",
+              "alagbede-baale-village-alagbede-village"
+            ]
+          },
+          {
+            "ward": "olufi",
+            "polling_units": [
+              "court-hal-customary-court-gbongan",
+              "obadoore-customary-court-gbongan",
+              "e-d-c-pry-school-i-owoope-owope-area",
+              "e-d-c-pry-school-11-owoope-owoope-area",
+              "n-u-d-school-oke-ola-oke-ola-area",
+              "ile-akanti-ojude-aseda-akanti-comp-gbongan",
+              "oke-irorun-junction-ajegunle-area"
+            ]
+          },
+          {
+            "ward": "otun-balogun",
+            "polling_units": [
+              "st-peter-s-pry-school-i-oke-apata-gbongan",
+              "st-peter-s-pry-school-ii-oke-apata-gbongan",
+              "community-hall-oke-ola-area-gbongan",
+              "ile-olojin-ile-olojin-area-gbongan",
+              "oke-rorun-obada-area-gbongan",
+              "ile-moyegun-obada-area-gbongan"
+            ]
+          },
+          {
+            "ward": "otun-olufi",
+            "polling_units": [
+              "a-u-d-ayepe-gbayanrin-area-gbongan-i",
+              "maternity-ajegunle-oke-elu-area-gbongan",
+              "maternity-ajegnle-oke-elu-area-gbongan-ii",
+              "st-paul-s-pry-school-oke-church-area-gbongan-i",
+              "st-paul-s-pry-school-oke-church-area-gbongan-ii",
+              "d-c-school-1-oke-offa-oke-offa-area-gbongan",
+              "d-c-school-ii-oke-offa-oke-offa-area-gbongan",
+              "e-d-c-school-araromi-adenuga-area-gbongan",
+              "st-martin-s-pry-school-iwo-road-gbongan",
+              "palace-road-onidele-oke-ofa-area-gbongan",
+              "abekoko-abekoko-area-gbongan",
+              "oja-ayepe-i-ayepe-market-gbongan",
+              "oja-ayepe-ii-ayepe-market-gbongan",
+              "orita-oke-offa-oke-offa-area-gbongan"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ayedire",
+        "wards": [
+          {
+            "ward": "ileogbo-i",
+            "polling_units": [
+              "idi-ore-market",
+              "luther-king-s-college-ileogbo",
+              "methodist-pry-school-ileogbo",
+              "n-u-d-school-ileogbo-i",
+              "n-u-d-school-ileogbo-ii",
+              "kobiowu-open-space"
+            ]
+          },
+          {
+            "ward": "ileogbo-ii",
+            "polling_units": [
+              "idi-ape-open-space",
+              "methodist-school-open-space",
+              "alaran-open-space",
+              "court-hall-ileogbo",
+              "alawe-open-space"
+            ]
+          },
+          {
+            "ward": "ileogbo-iii",
+            "polling_units": [
+              "olude-open-space",
+              "idi-ogun-open-space",
+              "comprehensive-health-centre-ileogbo",
+              "age-s-compd-ileogbo"
+            ]
+          },
+          {
+            "ward": "ileogbo-iv",
+            "polling_units": [
+              "asipa-open-space",
+              "african-church-area-open-space",
+              "gbogbo-open-space",
+              "ayi-open-space"
+            ]
+          },
+          {
+            "ward": "kuta-i",
+            "polling_units": [
+              "court-hall-kuta",
+              "a-u-d-school-ikoyi-kuta",
+              "alagbede-s-compd-kuta",
+              "dispensary-kuta",
+              "olunlade-open-space"
+            ]
+          },
+          {
+            "ward": "kuta-ii",
+            "polling_units": [
+              "saint-peter-african-church-school-kuta",
+              "a-c-methodist-pry-school-railway-station",
+              "ile-alaye",
+              "c-m-s-school-iloro",
+              "ode-oosa-open-space"
+            ]
+          },
+          {
+            "ward": "oke-osun",
+            "polling_units": [
+              "christ-anglican-school-elesin",
+              "iyana-ikire-open-space",
+              "a-u-d-school-eleji",
+              "community-high-school-onigangan",
+              "n-u-d-school-ileiran",
+              "a-u-d-abanikanda",
+              "d-c-school-alagbaa",
+              "mamu-abimbola",
+              "olorunda-market",
+              "laitan-village",
+              "ajebandele-village"
+            ]
+          },
+          {
+            "ward": "oluponna-1",
+            "polling_units": [
+              "community-pry-school-alaya",
+              "d-c-school-adenlere-adenlere",
+              "methodist-pry-school-iwo-railway-station",
+              "oluponna-town-hall"
+            ]
+          },
+          {
+            "ward": "oluponna-1i",
+            "polling_units": [
+              "d-c-school-oluponna",
+              "baptist-school-oluponna",
+              "ojisun-open-space",
+              "ode-ote-ejemu-market"
+            ]
+          },
+          {
+            "ward": "oluponna-1ii",
+            "polling_units": [
+              "araromi-market-i",
+              "araromi-market-ii",
+              "araromi-market-iii",
+              "saint-john-s-school-waasinmi",
+              "d-c-school-olori-oduwo"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "boluwaduro",
+        "wards": [
+          {
+            "ward": "eripa",
+            "polling_units": [
+              "baptist-day-school",
+              "palace-area-open-space",
+              "town-hall",
+              "police-post",
+              "old-maternity-centre",
+              "community-grammar-school",
+              "gaa-amodu"
+            ]
+          },
+          {
+            "ward": "gbeleru-obaala-i",
+            "polling_units": [
+              "kiriji-memorial-college",
+              "baptist-pry-school",
+              "africa-pry-school",
+              "library",
+              "town-hall",
+              "ayetoro-village"
+            ]
+          },
+          {
+            "ward": "gbeleru-obaala-ii",
+            "polling_units": [
+              "esile-recreation-hall-i",
+              "esile-recreation-hall-ii",
+              "c-s-pry-school",
+              "odofin-community-hall",
+              "aragba-village",
+              "kajola-ogundeji-village",
+              "osoro-ajegunle-village",
+              "budo-kiriji-village"
+            ]
+          },
+          {
+            "ward": "iresi-i",
+            "polling_units": [
+              "oja-oba-square",
+              "baptist-day-school",
+              "sabo-olobi",
+              "oke-eri-square",
+              "ogbon-odo-ode",
+              "ago-fulani",
+              "orokoro-pry-school"
+            ]
+          },
+          {
+            "ward": "iresi-ii",
+            "polling_units": [
+              "town-hall",
+              "obada-market-square",
+              "n-u-d-pry-school",
+              "ayeriyi",
+              "ikifin-postal-agency",
+              "comprehensive-health-centre",
+              "carpenters-hall",
+              "igbonka-village",
+              "obuke-village"
+            ]
+          },
+          {
+            "ward": "obala-iloro",
+            "polling_units": [
+              "catholic-pry-school",
+              "community-high-school",
+              "iloro-market-square",
+              "cooperative-hall",
+              "lowankan-hall",
+              "irepodun-village",
+              "araromi-edi-village"
+            ]
+          },
+          {
+            "ward": "oke-ode-otan",
+            "polling_units": [
+              "olosan",
+              "agbesola",
+              "ojude-aro",
+              "court-hall-town-hall",
+              "imojigbon",
+              "obada-market",
+              "alafe-okero"
+            ]
+          },
+          {
+            "ward": "oke-irun",
+            "polling_units": [
+              "okerun-market-square-i",
+              "okerun-market-square-ii",
+              "community-primary-school",
+              "ajebandele-village",
+              "igbo-ita-erie-village",
+              "igbo-nla-ayetoro",
+              "community-grammar-school"
+            ]
+          },
+          {
+            "ward": "oke-omi-otan",
+            "polling_units": [
+              "st-philip-s-pry-school",
+              "isale-obaala",
+              "ita-dada",
+              "legiri",
+              "st-nicholas-pry-school",
+              "odohun",
+              "brick-layer-s-hall",
+              "alaafa-igbodu",
+              "oke-akangbe"
+            ]
+          },
+          {
+            "ward": "oke-otan",
+            "polling_units": [
+              "ejemu-ororo",
+              "oke-anaye",
+              "alaremu",
+              "n-u-d-pry-school-i",
+              "n-u-d-pry-school-ii",
+              "gaa-fulani",
+              "oroki"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "boripe",
+        "wards": [
+          {
+            "ward": "ada-i",
+            "polling_units": [
+              "st-andrew-pry-school-ada",
+              "eesa-compound-ada",
+              "people-s-bank-ada",
+              "jagun-osolo-ada",
+              "ojomu-compound-ada",
+              "oluode-compound-ada"
+            ]
+          },
+          {
+            "ward": "ada-ii",
+            "polling_units": [
+              "baptist-school-ada",
+              "ile-alade-ada",
+              "ojomu-compound",
+              "obada-marketsq",
+              "l-a-school-ada",
+              "oke-baale-ada",
+              "commercial-school-ada"
+            ]
+          },
+          {
+            "ward": "agba",
+            "polling_units": [
+              "holy-apostle-aagba",
+              "town-hall-aagba",
+              "bashorun-square",
+              "n-u-d-school",
+              "methodist-pry-school-aagba",
+              "dispensary",
+              "olukoro-village",
+              "erinwo-village"
+            ]
+          },
+          {
+            "ward": "college-egbada-road",
+            "polling_units": [
+              "methodist-prymary-school-iragbiji",
+              "c-a-c-pry-school",
+              "araromi",
+              "egbeda-village-i",
+              "egbeda-village-ii",
+              "ayekale-village",
+              "eleesun-village-i",
+              "eleesun-village-ii",
+              "l-a-school-eesadee",
+              "odebudo-village"
+            ]
+          },
+          {
+            "ward": "isale-asa-iree",
+            "polling_units": [
+              "r-c-m-school-iree",
+              "oke-maye",
+              "motor-park",
+              "salem-school",
+              "baptist-high-school-i",
+              "baptist-high-school-ii-iree",
+              "oke-aasa-iree",
+              "baptist-welfare-hospital"
+            ]
+          },
+          {
+            "ward": "isale-oyo",
+            "polling_units": [
+              "n-u-d-primary-school-iragbiji",
+              "pry-health-centre",
+              "k-s-pry-school",
+              "ojude-ororuwo",
+              "alade-market",
+              "oore-community"
+            ]
+          },
+          {
+            "ward": "oja-oba",
+            "polling_units": [
+              "arugba-ojomu",
+              "town-hall-iragbiji",
+              "baptist-pry-school",
+              "jagun-hall",
+              "tinubu-fagbemi",
+              "osolo-hall"
+            ]
+          },
+          {
+            "ward": "oke-aree",
+            "polling_units": [
+              "poly-staff-school-iree",
+              "court-hall-iree",
+              "post-office-iree",
+              "n-e-p-a-iree",
+              "iyaji-open-space-iree",
+              "iyaji-open-space-iree",
+              "baptist-pry-school-iree"
+            ]
+          },
+          {
+            "ward": "oke-esa-oke-ogi",
+            "polling_units": [
+              "maternity-centre-iree",
+              "dispensary-centre-iree",
+              "n-u-d-iree",
+              "new-post-office-iree",
+              "baale-itake-iree",
+              "ansar-ul-islam-school-iree",
+              "anwar-uldeen-school-iree"
+            ]
+          },
+          {
+            "ward": "oloti-iragbiji",
+            "polling_units": [
+              "st-peter-school-i-iragbiji",
+              "l-a-school-popo",
+              "n-e-p-a",
+              "oke-osun",
+              "oke-agbo",
+              "aromadu-i",
+              "aromadu-ii"
+            ]
+          },
+          {
+            "ward": "ororuwo",
+            "polling_units": [
+              "r-c-m-ororuwo-i",
+              "r-c-m-ororuwoo-ii",
+              "market-square",
+              "dispensary",
+              "st-luke-s-pry-school-ororuwo"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ede-north",
+        "wards": [
+          {
+            "ward": "abogunde-sagba",
+            "polling_units": [
+              "16-popo-street-orita-bode",
+              "sufianu-main-comp",
+              "fed-polytechnic-in-front-of-ramat-hall",
+              "c-a-c-pry-school-talafia",
+              "l-a-pry-school-adeogbe",
+              "12-bisiku-lane",
+              "127-ojisun-comp",
+              "beside-lawyer-mogaji-s-house",
+              "abogunde-comp",
+              "abogunde-comp-open-space",
+              "38-asalu-main-comp",
+              "53-sagba-area-opp-sagba-mosque",
+              "sagba-junction",
+              "open-space-oniso-comp",
+              "iyaagba-kubiya-comp",
+              "ado-inaja-comp",
+              "babaoya-comp",
+              "alagbede-comp",
+              "asalu-lemola",
+              "ajeja-comp",
+              "osorun-onidun-comp",
+              "olugan-beside-olugan-mosque"
+            ]
+          },
+          {
+            "ward": "alusekere",
+            "polling_units": [
+              "iseki-oloti",
+              "alusekere-junction",
+              "l-a-pry-school-alusekere",
+              "owode-comm-pry-school",
+              "l-a-pry-school-kajola",
+              "lapeleke-square",
+              "lapeleke-square-open-space",
+              "idi-oloke-motor-park",
+              "agodo-village",
+              "jagun-odomu-village",
+              "aba-olasupo",
+              "elere-egbejoda",
+              "adejuwon-ojoro-market",
+              "anuolu-junction",
+              "opp-seventh-day-pry-school",
+              "opp-seventh-day-pry-school-open-space",
+              "ededimeji-village",
+              "adetoro-street-monica-s-junction"
+            ]
+          },
+          {
+            "ward": "apaso",
+            "polling_units": [
+              "11-laoye",
+              "otanioku-comp",
+              "ayope-i",
+              "18-jariogun",
+              "agboja-comp",
+              "open-space-agunleyinju-comp",
+              "28-agberi-comp-opp-mosque",
+              "133-ojularede-st-oniso-comp",
+              "133-ojularede-st-open-space",
+              "32-apaso-st-elekuro-comp"
+            ]
+          },
+          {
+            "ward": "bara-ejemu",
+            "polling_units": [
+              "beside-mugba-mosque",
+              "awo-comp",
+              "bara-ejemu-comp",
+              "infront-of-bara-ejemu",
+              "amosun-comp",
+              "11-agboko-in-front-of-nitel",
+              "aipola-comp"
+            ]
+          },
+          {
+            "ward": "isibo-buari-isola",
+            "polling_units": [
+              "customary-court",
+              "10-otun-omide-square",
+              "in-front-of-town-hall",
+              "daodu-folarin-compound",
+              "150a-station-road",
+              "beside-olubonku-bridge",
+              "sooro-abangbe-inf-of-mosque",
+              "56-akoda-comp-s-agate-road",
+              "pere-lane-i",
+              "pere-lane-ii-open-space",
+              "beside-daodu-olagunju-s-mosque",
+              "agbala-beh-coop-building"
+            ]
+          },
+          {
+            "ward": "jagun-jagun-ede",
+            "polling_units": [
+              "20-ojularede-st",
+              "33-ojularede-st-open-space",
+              "38-ojularede-st",
+              "42-otepe-comp-agbangudu",
+              "otepe-comp-agbagudu-open-space",
+              "12-jagun-comp",
+              "48-agbangudu-st-jagun-area",
+              "jagun-ago-motor-park",
+              "olun-gbele-comp",
+              "16-orita-akala",
+              "bapt-pry-school-isekioloro"
+            ]
+          },
+          {
+            "ward": "olaba-atapara",
+            "polling_units": [
+              "beside-funmi-cosmetics",
+              "beside-omotoso-house",
+              "no-5-olojo-s-lane",
+              "78b-ate-s-compd",
+              "store-5-atapara-market",
+              "batetu-comp",
+              "7-oloba-lane",
+              "8-ikolaba-compd",
+              "8b-arinago-compd",
+              "163-ojularede-street-alawo-compd"
+            ]
+          },
+          {
+            "ward": "ologun-agbaakin",
+            "polling_units": [
+              "ologun-square",
+              "odunaye-square",
+              "aranyin-square",
+              "aran-yin-compd-open-space",
+              "aworo-compd",
+              "41b-areja-square-yidi-road",
+              "gaa-iyalode-yidi-road",
+              "olukolo-idi-ose",
+              "no-i-tajudeen-road-open-space",
+              "no-10-tajudeen-road-agba",
+              "alawo",
+              "adodo-compound"
+            ]
+          },
+          {
+            "ward": "olusokun",
+            "polling_units": [
+              "19-alaka-s-compound",
+              "bara-okuseinde-compound",
+              "kumomi-junction",
+              "y-t-d-school-ojoro",
+              "beside-olode-mosque",
+              "abere-i",
+              "oladunjoye-abere-ii",
+              "ifaosun",
+              "olusokun-compd",
+              "idiomo-apena-compd"
+            ]
+          },
+          {
+            "ward": "sabo-agbongbe-i",
+            "polling_units": [
+              "l-a-pry-school-agbongbe",
+              "7-araromi-street",
+              "6-sabo-street",
+              "beth-africa-church-school",
+              "akinlade-square-onimalu",
+              "osun-agbeni-junction",
+              "elerin-junction-opp-mosque",
+              "elerin-junction-open-space",
+              "ajibolu-square",
+              "olaolu-n-p-school",
+              "no-11-bolanle-s-street-sabo"
+            ]
+          },
+          {
+            "ward": "sabo-agbongbe-ii",
+            "polling_units": [
+              "beside-ebelomo-ind",
+              "garage-entrance-oke-gada",
+              "garage-entrance-oke-gada-open-square",
+              "12-army-barrack-s-road",
+              "camp-young-area-opp-saw-mills",
+              "barracks-junction",
+              "no-1-alabi-street",
+              "no-6-okegada-osogbo-road-beside-s-k-mech",
+              "agbale-village",
+              "mapo-arogun-comm-high-school"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ede-south",
+        "wards": [
+          {
+            "ward": "alajue-i",
+            "polling_units": [
+              "alajue-bode-street-ede",
+              "alajue-square-idi-arere",
+              "st-peters-pry-school-ede",
+              "oba-laoye-grammar-school-ede-i",
+              "oba-laoye-grammar-school-ede-ii",
+              "ode-oke"
+            ]
+          },
+          {
+            "ward": "alajue-ii",
+            "polling_units": [
+              "orisunbare-village",
+              "l-a-school-ponpola",
+              "y-t-d-ogbaagba",
+              "l-a-school-alajue-i",
+              "l-a-school-alajue-ii",
+              "aminiwon-village",
+              "l-a-school-agbinpa-village",
+              "dispensary-idiagbon-village"
+            ]
+          },
+          {
+            "ward": "asunmo",
+            "polling_units": [
+              "alapa-junction-ede",
+              "talafia-imam-ede",
+              "olosun-comp-ede",
+              "oke-ogosun-ede"
+            ]
+          },
+          {
+            "ward": "babanla-agate",
+            "polling_units": [
+              "l-a-school-obada-ede",
+              "agate-square-ede",
+              "babanla-square-ede",
+              "alukagun-comp-ede",
+              "fajo-s-compound-ede",
+              "lakonu-s-ogbaarayin-s-comp-ede",
+              "olumole-s-comp-ede"
+            ]
+          },
+          {
+            "ward": "babasanya",
+            "polling_units": [
+              "babasanya-comp-ede",
+              "agbanu-s-comp-ede",
+              "mosa-onidodo-ede",
+              "ile-ori-oke-comp-ede",
+              "olorin-junction-ede"
+            ]
+          },
+          {
+            "ward": "kuye",
+            "polling_units": [
+              "abati-ede",
+              "kuye-s-compound-ede",
+              "oloki-junction-ede",
+              "ooye-ede"
+            ]
+          },
+          {
+            "ward": "loogun",
+            "polling_units": [
+              "y-t-d-pry-school-araromi-logun-i",
+              "y-t-d-pry-school-araromi-logun-ii",
+              "aladun-osun-village",
+              "c-a-c-pry-school-egbeda-loogun",
+              "otagere-village",
+              "deenu-village",
+              "loogun-isemi",
+              "akinbode-village"
+            ]
+          },
+          {
+            "ward": "olodan",
+            "polling_units": [
+              "idi-oro-village",
+              "l-a-school-olodan-i",
+              "l-a-school-olodan-ii",
+              "st-luke-s-pry-school-arola",
+              "gaga-village"
+            ]
+          },
+          {
+            "ward": "oloki-akoda",
+            "polling_units": [
+              "akoda-village",
+              "l-a-pry-school-oloki",
+              "islamic-pry-school-olorunda-i",
+              "islamic-pry-school-olorunda-ii",
+              "elewure-village",
+              "ogobi-village",
+              "ayegbami-village",
+              "community-pry-school-oluwere"
+            ]
+          },
+          {
+            "ward": "sekona",
+            "polling_units": [
+              "maternity-centre-sekona",
+              "opp-bapt-church-sekona",
+              "oke-oja-junction-sekona",
+              "c-a-c-pry-school-sekona",
+              "st-peter-s-school-sekona",
+              "aba-bara-i",
+              "aba-bara-ii",
+              "maternity-centre-ere-osun"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "egbedore",
+        "wards": [
+          {
+            "ward": "ara-i",
+            "polling_units": [
+              "ebenezer-baptist-day-pry-school-ara",
+              "ebenezer-baptist-pry-school-ara",
+              "isale-jala-area-ara",
+              "y-t-d-pry-school-ara",
+              "aro-alara-village",
+              "abogunde-community-pry-school"
+            ]
+          },
+          {
+            "ward": "ara-ii",
+            "polling_units": [
+              "town-hall-ara-old",
+              "isale-ayo-area-ara",
+              "baptist-day-pry-school-ara",
+              "ooye-village-ooye",
+              "st-andrew-s-pry-school-ilawe",
+              "bara-elelubo-village",
+              "alaasan-village",
+              "yemope-village",
+              "obada-village"
+            ]
+          },
+          {
+            "ward": "awo-abudo",
+            "polling_units": [
+              "baptist-day-pry-school-awo",
+              "town-hall-awo",
+              "abudo-village",
+              "abudo-community-pry-school",
+              "olokusa-village"
+            ]
+          },
+          {
+            "ward": "ido-osun",
+            "polling_units": [
+              "ido-osun-town-hall",
+              "ido-osun-town-hall-area",
+              "ido-osun-dispensary-premises",
+              "ido-osun-dispensary-area",
+              "community-pry-school-egbedi",
+              "new-motor-park-ido-osun"
+            ]
+          },
+          {
+            "ward": "ikotun",
+            "polling_units": [
+              "l-a-pry-school-ikotun",
+              "laroyan-village",
+              "baale-olope-village"
+            ]
+          },
+          {
+            "ward": "ira-gberi-i",
+            "polling_units": [
+              "iragberi-town-hall",
+              "ejemu-area",
+              "isale-aro-area"
+            ]
+          },
+          {
+            "ward": "ira-gberi-ii",
+            "polling_units": [
+              "baptist-day-pry-school-iragberi",
+              "bada-area-iragberi",
+              "olosi-area-iragberi",
+              "daodu-area-iragberi"
+            ]
+          },
+          {
+            "ward": "iwoye-idoo-origo",
+            "polling_units": [
+              "iwoye-dispensary",
+              "idoo-village",
+              "ekuro-village",
+              "kitibi-village"
+            ]
+          },
+          {
+            "ward": "ojo-aro",
+            "polling_units": [
+              "baptist-day-pry-school-ojo",
+              "baptist-day-pry-school-aro"
+            ]
+          },
+          {
+            "ward": "okin-ni-olorunsogo-ofatedo",
+            "polling_units": [
+              "dada-estate-olorunsogo",
+              "osunbukola-junction",
+              "okubanjo-printing-press-area",
+              "isale-osun-ofatedo",
+              "st-georges-r-c-m-pry-school-ofatedo",
+              "oke-oja-ofatedo",
+              "okogun-area-okinni",
+              "st-johns-pr-school-okinni",
+              "y-t-d-pry-school-okinni",
+              "igbokiti-pry-school-igbokiti"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ejigbo",
+        "wards": [
+          {
+            "ward": "elejigbo-a",
+            "polling_units": [
+              "ejigbo-town-hall",
+              "abieku-area",
+              "r-c-m-pry-school",
+              "begi-opp-nepa",
+              "bada-sakasaka",
+              "evang-omo-oye"
+            ]
+          },
+          {
+            "ward": "elejigbo-b-osolo",
+            "polling_units": [
+              "e-b-h-s-ejigbo",
+              "a-u-d-pry-school",
+              "oba-abidjan-alaran",
+              "ojude-osolo",
+              "aromadu",
+              "ejigbo-shopping-complex",
+              "ife-odan-motor-park",
+              "fire-station",
+              "d-c-school-iwo-road",
+              "idi-ape-ejigbo",
+              "obelawo-quarters",
+              "alukoso",
+              "mayofade-com-bank",
+              "orita-enla-adekanbi"
+            ]
+          },
+          {
+            "ward": "elejigbo-c-mapo",
+            "polling_units": [
+              "beulah-bapt-school-ejigbo",
+              "ogbomoso-motor-park",
+              "ode-bara-market-stall",
+              "maternity-centre-popo",
+              "nepa",
+              "ejigbo-secretariat-complex",
+              "ope-olori-meji"
+            ]
+          },
+          {
+            "ward": "elejigbo-d-ejemu",
+            "polling_units": [
+              "oke-balogun-bapt-day-school",
+              "olowola-ologbin",
+              "magistrate-court",
+              "idi-oro-junction",
+              "idi-seke",
+              "oke-odo-ilupeju-i",
+              "oke-odo-ilupeju-ii",
+              "apanpa-ajila-osunfiade"
+            ]
+          },
+          {
+            "ward": "elejigbo-ayegbogbo",
+            "polling_units": [
+              "ejigbo-shop-complex",
+              "c-a-c-pry-school-1",
+              "asalu-akinde",
+              "ayegbogbo-dispensary",
+              "dakolebu-junction",
+              "akuru-junction"
+            ]
+          },
+          {
+            "ward": "ifeodan-a-owu-ile",
+            "polling_units": [
+              "ife-odan-town-hall",
+              "ife-odan-postal-agency-i",
+              "ife-odan-postal-agency-ii",
+              "oke-afin-iwo-ate-ife-odan",
+              "owu-ile"
+            ]
+          },
+          {
+            "ward": "ifeodan-b-masifa",
+            "polling_units": [
+              "logun-oke-ola",
+              "temidire-balogun",
+              "masifa-postal-agency",
+              "oguro-ife-odan-masifa-junction",
+              "co-op-office-masifa",
+              "oguro-market-square",
+              "oguro-isanko-postal-agency"
+            ]
+          },
+          {
+            "ward": "ilawo-isoko-isundunrin",
+            "polling_units": [
+              "ilawo-town-hall",
+              "oosa-jagun-aro",
+              "ilawo-baptist-day-school",
+              "mogbelerin-village",
+              "adegeebo-elewure-village",
+              "isundunrin-bapt-day-school",
+              "isundunrin-comm-bank",
+              "isundurin-ori-oke-quarters",
+              "isoko-bapt-day-school",
+              "isoko-market-stall",
+              "isoko-aboruboye"
+            ]
+          },
+          {
+            "ward": "inisa-i-aato-igbon",
+            "polling_units": [
+              "aato-postal-agency",
+              "ajogbelede-aponla",
+              "ijimoba",
+              "d-c-school-igbon-i",
+              "d-c-school-igbon-ii",
+              "bapt-day-school-ika",
+              "ika-market-square",
+              "inisa-i-bapt-day-school"
+            ]
+          },
+          {
+            "ward": "inisa-ii-afaake-ayegunle",
+            "polling_units": [
+              "iwata-market-square",
+              "balogun-olukotun-quarters-iwata",
+              "afaake-town-hall",
+              "ayegunle-kugbola",
+              "ibogunde",
+              "inisa-ii",
+              "songbe-market-square",
+              "aba-merin",
+              "ado-ori-oke",
+              "molosanowo-village",
+              "olorin",
+              "osuntedo",
+              "idi-igba"
+            ]
+          },
+          {
+            "ward": "ola-aye-agurodo",
+            "polling_units": [
+              "ola-postal-agency",
+              "state-health-centre-ola",
+              "ola-iware",
+              "merin-mefon-ola",
+              "aye",
+              "agurodo-market-square",
+              "proposed-health-centre-agurodo"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ife-central",
+        "wards": [
+          {
+            "ward": "akarabata",
+            "polling_units": [
+              "akarabata-line-i",
+              "akarabata-line-ii",
+              "akarabata-line-iii",
+              "frontage-of-l-i-e-s-office",
+              "urban-day-grammar-school",
+              "local-govt-mini-market",
+              "oranmiyan-shopping-complex",
+              "frontage-of-isawumi",
+              "frontage-of-lenards",
+              "frontage-of-little-by-little",
+              "frontage-of-water-corporation",
+              "s-d-a-pry-school"
+            ]
+          },
+          {
+            "ward": "ilare-1",
+            "polling_units": [
+              "oluorogbo-high-school",
+              "idi-obi",
+              "ope-olu-hosital",
+              "moremi-high-school",
+              "o-a-u-staff-quarters",
+              "sijuade-nurs-pry-school",
+              "open-space-frontage-of-adeyera-house",
+              "open-space-igboya-opp-catholic-church",
+              "open-space-igboya",
+              "pearl-nur-pry-school-olonade",
+              "open-space-adesina-street",
+              "open-space-adedeji-street",
+              "olubuse-market-igboya",
+              "open-space-mbabimbayo",
+              "oranmiyan-grammar-school",
+              "open-space-mokola"
+            ]
+          },
+          {
+            "ward": "ilare-1i",
+            "polling_units": [
+              "ajegunle-opp-olowo-idi-agbon",
+              "open-space-irebami-line-i",
+              "open-space-irebami-line-i-a",
+              "open-space-irebami-line-ii",
+              "open-space-irebami-line-iii",
+              "open-space-irebami-line-iv",
+              "l-a-pry-school-fajuyi",
+              "ajegunle-line-ii-back-of-arewa-house",
+              "ajegunle-line-ii",
+              "open-space-orafidodo",
+              "open-space-ibukunolu-line-i",
+              "open-space-c-a-c-oke-itunu",
+              "open-space-irebami-line-iv",
+              "back-of-ajegunle-bus-stop-arubiewe",
+              "open-space-ibunkunolu-line-ii"
+            ]
+          },
+          {
+            "ward": "ilare-iii",
+            "polling_units": [
+              "health-centre-olomowewe",
+              "akodi-wakesan",
+              "akodi-ooni-ilare-i",
+              "akodi-ooni-ilare-ii",
+              "akodi-akeran",
+              "akodi-gbuede",
+              "akodi-olubuse",
+              "akodi-obadio",
+              "akodi-oga",
+              "eranyiba-court",
+              "akodi-wasin",
+              "general-post-office"
+            ]
+          },
+          {
+            "ward": "ilare-iv",
+            "polling_units": [
+              "st-john-pry-school-ilare",
+              "central-pry-school-ilare",
+              "akodi-ajaba",
+              "open-space-oluere",
+              "akodi-olodo-i",
+              "akodi-olodo-ii",
+              "akodi-agesinoyowa",
+              "ile-cannani-under-breadfruit",
+              "akodi-ayedun",
+              "a-u-i-pry-school-olaolu",
+              "akodi-adejokun",
+              "methodist-pry-school",
+              "baptist-pry-school-college-road",
+              "open-space-olumogbe-i",
+              "open-space-olumogbe",
+              "akodi-apejiogo",
+              "open-space-igbo-agbo"
+            ]
+          },
+          {
+            "ward": "iremo-ii-eleyele",
+            "polling_units": [
+              "open-space-mayfair-junction",
+              "l-a-pry-school-eleyele",
+              "fadehan-nur-pry-school-eleyele",
+              "open-space-lati-eluyera",
+              "living-hope-hospital",
+              "frontage-seramo-guest-house",
+              "frontage-nitel",
+              "ife-girls-high-school",
+              "saint-mathew-nursery-pry-school-eleyele",
+              "open-space-mayowa-street",
+              "open-space-akintibu-street",
+              "bishop-s-court-parakin-obalufe",
+              "open-space-ebenezer-street",
+              "omo-olu-nur-pry-school-akindoyin",
+              "town-planning-office",
+              "open-space-opp-prof-abiri-s-house"
+            ]
+          },
+          {
+            "ward": "iremo-iii",
+            "polling_units": [
+              "akodi-obalaye-ajupepe",
+              "akodi-fayimoka",
+              "recreation-club",
+              "frontage-of-alimi-s-house",
+              "st-murumba-pry-schol",
+              "olubuse-market-iso-obi",
+              "akodi-obalufon-i",
+              "akodi-obalufon-ii",
+              "open-space-ayibiowu",
+              "st-peter-s-pry-school-iremo",
+              "akodi-jaran-arinloye",
+              "open-space-ilara",
+              "akodi-moku",
+              "open-space-london-street",
+              "akodi-latale",
+              "akodi-awolude",
+              "l-g-office-oja-tuntun"
+            ]
+          },
+          {
+            "ward": "iremo-iv",
+            "polling_units": [
+              "akodi-ladapo",
+              "akodi-akui",
+              "akodi-ake",
+              "akodi-lukoun",
+              "akodi-jagbere",
+              "akodi-aje",
+              "open-space-gbelenkan-st",
+              "akodi-ijaroa",
+              "frontage-amoo-s-house",
+              "akodi-lanase",
+              "akodi-akile"
+            ]
+          },
+          {
+            "ward": "iremo-v",
+            "polling_units": [
+              "akodi-atiki",
+              "akodi-asarogun",
+              "akodi-jaojo",
+              "akodi-aga",
+              "akodi-abewela",
+              "akodi-lujumo-1",
+              "akodi-lujumo-ii",
+              "c-a-c-pry-school-ojoyin",
+              "saint-michael-pry-school-ogbon-agbara",
+              "akodi-obalejugbe",
+              "open-space-garage-isale",
+              "high-court-aderemi-road",
+              "akodi-waluberin",
+              "akodi-babasigidi",
+              "akodi-faloyin",
+              "akodi-darikuduru",
+              "open-space-ojikutu-s-house",
+              "open-space-isale-agbara"
+            ]
+          },
+          {
+            "ward": "iremo-ajebandele",
+            "polling_units": [
+              "new-garage",
+              "slaughters-slab",
+              "open-space-adesanmi",
+              "fajuyi-hall-o-a-u",
+              "awolowo-hall-o-a-u",
+              "o-a-u-quarters-1st-bus-stop",
+              "o-a-u-quarters-2nd-bus-stop",
+              "blessing-nursery-and-pry-school-faola-layout",
+              "obagbile",
+              "l-a-pry-school-ajebamidele",
+              "l-a-pry-school-elefon",
+              "open-space-falaju-street-ede-road",
+              "post-graduate-hall-o-a-u",
+              "sports-centre-o-a-u"
+            ]
+          },
+          {
+            "ward": "more-ojaja",
+            "polling_units": [
+              "ife-city-hall-area-i",
+              "agbedegbede-street",
+              "moore-street",
+              "agbede-area",
+              "ido-osun-street",
+              "after-police-station",
+              "opp-papayomi-ojaja-line",
+              "fajuyi-road",
+              "beside-total-filling-station",
+              "ifedapo-street",
+              "ikoyi-quarters",
+              "ife-city-area-ii",
+              "opa-area",
+              "alakowe",
+              "ere-ola",
+              "king-solomon-church",
+              "iddo-street",
+              "oduduwa-college-road",
+              "moore"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ife-east",
+        "wards": [
+          {
+            "ward": "ilode-i",
+            "polling_units": [
+              "enuwa-square-palace-frontage",
+              "st-john-s-pry-school-i-oke-atan",
+              "st-john-s-pry-scool-ii-oke-atan",
+              "akodi-osuogun-oja-ife-area",
+              "all-saints-pry-school-ilode",
+              "akodi-ajamopo-ajamopo",
+              "akodi-jetao-opp-enuwa-square",
+              "obawara-obawara-off-ilode"
+            ]
+          },
+          {
+            "ward": "ilode-ii",
+            "polling_units": [
+              "catholic-technical-college-ilode",
+              "local-authoriy-pry-school-mosarajo-village",
+              "ilala-obalayan-ilala-obalayan-village",
+              "saga-elekiri-obalayan-elekiri-village",
+              "local-authority-pry-school-ilala-owena",
+              "ooni-girls-high-school-oke-ogbo",
+              "local-authority-pry-school-ifewara-road"
+            ]
+          },
+          {
+            "ward": "modakeke-ii",
+            "polling_units": [
+              "akeredolu-area-ile-epo",
+              "akodi-onile-aran-onile-aran",
+              "st-stephen-b-famia-road",
+              "holy-savour-s-pry-school-oke-otubu",
+              "st-stephen-a-pry-school-itasin-area",
+              "ologunsogo-olorunsogo-area",
+              "customary-curt-opposite-ogunsua-s-palace",
+              "baptist-pry-school-itamerin",
+              "pry-health-centre-i-oke-bode",
+              "pry-health-centre-ii-oke-bode"
+            ]
+          },
+          {
+            "ward": "modakeke-iii",
+            "polling_units": [
+              "ogunsua-gram-school-esuyare",
+              "akodi-ijedu-i-ijedu-area",
+              "akodi-ijedu-ii-ijedu-area",
+              "c-a-c-pry-school-ondo-road",
+              "comm-pry-school-oke-ola-area-i",
+              "akodi-bada-alubata",
+              "apostolic-pry-school-jagunadado",
+              "olukade-alapata-olukade-alapata",
+              "cooperative-building-ajigbona",
+              "comm-pry-sch-oke-ola-area-ii"
+            ]
+          },
+          {
+            "ward": "modakeke-i",
+            "polling_units": [
+              "r-c-m-iraye",
+              "l-a-pry-school-amuda-oba",
+              "t-a-c-pry-schol-egbedore",
+              "comm-grammar-school-toro-road",
+              "comm-grammar-school-aje-road",
+              "boosa-market-boosa-market",
+              "salem-bap-pry-school-iraye-area",
+              "st-stephen-c-pry-school-adeowo",
+              "kajola-area-kajola"
+            ]
+          },
+          {
+            "ward": "more",
+            "polling_units": [
+              "ife-city-college-i-ilesha-road",
+              "ife-city-college-ii-ilesha-road",
+              "st-gabriel-pry-school-i-moore",
+              "st-gabriel-pry-school-ii-moore",
+              "l-a-pry-school-ijio-oja-ife",
+              "opposite-general-hospital-2nd-gate-oramfe",
+              "c-a-c-pry-shool-obaluru-village",
+              "aba-ompetu-ompetu-village",
+              "c-a-c-pry-school-moore-area",
+              "opa-area-ilesha-road"
+            ]
+          },
+          {
+            "ward": "okerewe-i",
+            "polling_units": [
+              "st-philips-pry-school-i-ayetoro",
+              "st-philips-pry-school-ii-ayetoro",
+              "c-a-c-pry-school-i-iloro",
+              "c-a-c-pry-school-ii-iloro",
+              "a-u-d-grammar-school-iloro",
+              "comm-pry-school-abata-ege",
+              "akodi-adagba-adegoke-street",
+              "akodi-jaaran-oke-soda",
+              "akodi-akinosinla-akogun-street",
+              "the-apostolic-pry-school-oke-soda"
+            ]
+          },
+          {
+            "ward": "okerewe-ii",
+            "polling_units": [
+              "akodi-amodo-itakogun-area",
+              "akodi-jagudu-otutu-area",
+              "akodi-olugbodo-gbodo-street",
+              "akodi-wunmonije-otutu-area",
+              "akodi-ladelatan-lafogido-street",
+              "akodi-okiti-gbodo-street",
+              "akodi-agidi-i-ajamopo-street",
+              "akodi-agidi-ii-ajamopo-street",
+              "p-s-p-pry-school-edena-road"
+            ]
+          },
+          {
+            "ward": "okerewe-iii",
+            "polling_units": [
+              "st-peters-gram-school-ondo-road",
+              "araromi-oke-gbala-araromi-okegbala",
+              "akodi-lowa-omisore-ogbon-oya",
+              "coker-mem-pry-school-erefe-village",
+              "agidi-arubidi-oke-ayetoro-junction",
+              "st-philips-gra-school-i-arubidi",
+              "st-philips-gra-school-ii-arubidi",
+              "ifelodun-comm-pry-school-ondo-road",
+              "akodi-akogun-akogun-compound",
+              "akodi-gidiogbo-gidiogbo-compound"
+            ]
+          },
+          {
+            "ward": "yekemi",
+            "polling_units": [
+              "comm-school-i-yekemi-village",
+              "comm-school-ii-yekemi-village",
+              "ayekoka-maternity-centre-ayekoka",
+              "st-john-s-pry-school-wanikin-eleja",
+              "comm-pry-school-abata-egba",
+              "iyanfoworogi-pry-schol-iyanfoworogi",
+              "idu-elesin-petesi-ori-idu-elesin-village",
+              "st-paul-s-pry-school-aganran-village"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ife-north",
+        "wards": [
+          {
+            "ward": "asipa-akinlalu",
+            "polling_units": [
+              "st-stephen-s-school-i",
+              "st-stephen-s-school-ii",
+              "post-office-asipa",
+              "town-hall-asipa",
+              "ogundijo-village",
+              "town-hall-akinlalu",
+              "st-stephen-s-school-akinlalu",
+              "l-a-school-eyentanle"
+            ]
+          },
+          {
+            "ward": "edunabon-i",
+            "polling_units": [
+              "council-hall-edunabon",
+              "baptist-pry-school-edunabon",
+              "l-a-school-edunabon",
+              "r-c-m-school-edunabon",
+              "elemu-amoloye",
+              "tonkere-orile-idi-ogbagba",
+              "oloba-balogun",
+              "abojo-village",
+              "c-a-c-school-edunabon-i",
+              "c-a-c-school-edunabon-ii"
+            ]
+          },
+          {
+            "ward": "edunabon-ii",
+            "polling_units": [
+              "st-stephen-s-school-edunabon",
+              "oju-oja-edunabon-i",
+              "oju-oja-edunabon-ii",
+              "osasa-s-compound-edunabon-i",
+              "osasa-s-compound-edunabon-ii",
+              "ejemu-village",
+              "moroyin-ogbigbi",
+              "elerin-i-ii-iii",
+              "apesikiti-alawiye",
+              "emmanuel-c-s-pry-school-edunabon",
+              "ogbirigbiri-village"
+            ]
+          },
+          {
+            "ward": "famia",
+            "polling_units": [
+              "st-martin-s-school-egbeda",
+              "okun-omoni-grammar-school-okuu",
+              "st-paul-s-pry-school-famia",
+              "st-phillip-s-school-idi-iroko",
+              "asabi-village",
+              "apostolic-school-baale-sango",
+              "onisoro-village"
+            ]
+          },
+          {
+            "ward": "ipetumodu-i",
+            "polling_units": [
+              "town-hall-ipetumodu",
+              "court-hall-ipetumodu-i",
+              "court-hall-ipetumodu-ii",
+              "isale-ola-dele",
+              "st-augustine-school-ipetumodu",
+              "the-apostolic-school-ipetumodu",
+              "christ-school-ii-ipetumodu",
+              "origbo-comm-high-school-ipetumodu",
+              "isale-ola-olose",
+              "iwaro-village",
+              "c-a-c-school-ipetumodu",
+              "agbanda-village",
+              "christ-school-ipetumodu"
+            ]
+          },
+          {
+            "ward": "ipetumodu-ii",
+            "polling_units": [
+              "maternity-centre-ipetumodu",
+              "c-a-c-school-baakun-ipetumodu",
+              "l-a-school-orugun-ipetumodu",
+              "ayetoro-area-ipetumodu",
+              "st-john-s-school-oke-ola",
+              "a-u-d-school-koso",
+              "isale-aaje-ipetumodu",
+              "origbo-grammar-school-ipetumodu",
+              "amosun-village",
+              "amulie-ipetumodu",
+              "odo-oba-ipetumodu",
+              "abebi-junction-ipetumodu"
+            ]
+          },
+          {
+            "ward": "moro",
+            "polling_units": [
+              "dispensary-centre-moro",
+              "market-centre-moro",
+              "coperative-moro",
+              "eleweran-village",
+              "ifelodun-market-centre",
+              "c-a-c-school-moro",
+              "odu-hall-moro",
+              "ayepe-hall-moro",
+              "l-a-school-olukotun"
+            ]
+          },
+          {
+            "ward": "oyere-ii",
+            "polling_units": [
+              "l-a-school-amukegun",
+              "alapata-village",
+              "l-a-school-kilibi",
+              "apamu-ibadan",
+              "l-a-school-atowo",
+              "christ-church-school-aborisaade-i",
+              "salami-village"
+            ]
+          },
+          {
+            "ward": "oyere-i",
+            "polling_units": [
+              "st-raphael-s-school-toro",
+              "apostolic-s-school-idi-ita",
+              "l-a-school-ori-okuta",
+              "oyoo-adukesi",
+              "st-paul-s-school-molodo",
+              "r-c-m-school-onibambu"
+            ]
+          },
+          {
+            "ward": "yakoyo",
+            "polling_units": [
+              "st-john-s-school-yakoyo",
+              "l-a-school-oke-osin",
+              "maternity-centre-yakoyo",
+              "post-office-yakoyo-st-john-s-school-ayedaade",
+              "st-john-s-school-ayedaade",
+              "iya-olomo-oke-osin",
+              "alani-akinrinade-open-space"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ife-south",
+        "wards": [
+          {
+            "ward": "aare",
+            "polling_units": [
+              "aud-school-ifetedo",
+              "towogbade-market",
+              "court-hall-ifetedo-i",
+              "court-hall-ifetedo-ii",
+              "idi-odan-oja-oba",
+              "ayetoro-ifetedo",
+              "coop-store-area-owode-village",
+              "aud-pry-school-idi-ogan-village",
+              "baptist-pry-school-akintola",
+              "st-stephen-s-school-gbon-gbonkan-osi",
+              "town-hall-ifetedo",
+              "aba-ose-arowolo"
+            ]
+          },
+          {
+            "ward": "abiri-ogudu",
+            "polling_units": [
+              "coop-store-area-abiri-village",
+              "pry-school-aba-oba",
+              "st-michael-pry-school-aba-iwo",
+              "gbafari-village",
+              "coop-store-area-toba",
+              "coop-store-area-itamerin",
+              "l-a-school-obalara",
+              "coop-store-ogogo-arowokomo",
+              "st-john-pry-school-ogudu-i",
+              "st-john-pry-school-ogudu-ii"
+            ]
+          },
+          {
+            "ward": "aye",
+            "polling_units": [
+              "aderemi-memorial-college-i",
+              "aderemi-memorial-college-ii",
+              "ogbagba-village",
+              "aba-iresi-i",
+              "aba-iresi-ii",
+              "pry-school-olowokere",
+              "baptist-day-school-idi-ogun",
+              "idi-ako-village",
+              "atere-pry-school",
+              "st-thomas-pry-school-ajebandele",
+              "amodo-pry-school-amodo-village"
+            ]
+          },
+          {
+            "ward": "ayesan",
+            "polling_units": [
+              "ayesan-compound",
+              "fadeyi-area",
+              "akodi-adesigbin",
+              "l-a-pry-school-asawure",
+              "st-luke-pry-school-boluwaduro-i",
+              "st-luke-pry-school-boluwaduro-ii",
+              "c-a-c-pry-school-idi-obi",
+              "a-u-i-pry-school-ologiri",
+              "st-peter-s-pry-school-ifetedo",
+              "akodi-kuole-ifetedo",
+              "aba-dada"
+            ]
+          },
+          {
+            "ward": "ikija-i",
+            "polling_units": [
+              "ikija-ifetedo",
+              "ifetedo-high-school-i-ifetedo",
+              "ifetedo-high-school-ii-ifetedo",
+              "ideta-ifetedo",
+              "akodi-ajibike-ifetedo",
+              "oke-eso-i-ifetedo",
+              "oke-eso-ii-ifetedo",
+              "oniwinde-ifetedo",
+              "abatuntun",
+              "akodi-famoroti-ifetedo",
+              "aba-bada"
+            ]
+          },
+          {
+            "ward": "ikija-ii",
+            "polling_units": [
+              "baba-akodi-ifetedo",
+              "c-a-c-pry-school-i-ifetedo",
+              "c-a-c-pry-school-ii-ifetedo",
+              "community-pry-school-mosafejo-i",
+              "community-pry-school-mosafejo-ii",
+              "st-peter-s-pry-school-akeju",
+              "community-high-school-oniperegun",
+              "ominla",
+              "otutu-ifetedo",
+              "akodi-ologbenla-ifetedo",
+              "ilare-compound"
+            ]
+          },
+          {
+            "ward": "kere",
+            "polling_units": [
+              "araromi-oke-odo-i",
+              "araromi-oke-odo-ii",
+              "olomu-oja",
+              "l-a-school-adereti",
+              "st-agnes-pry-school-iponrin",
+              "camp-oja",
+              "l-a-school-olorunda-i",
+              "l-a-school-olorunda-ii",
+              "kere-orisunbare",
+              "pry-school-aba-ogunleye"
+            ]
+          },
+          {
+            "ward": "mefoworade",
+            "polling_units": [
+              "community-centre-mefoworade",
+              "st-john-s-school-mefoworade",
+              "oke-ogbomoso-mefoworade",
+              "a-u-i-school-oke-ila-i",
+              "a-u-i-school-oke-ila-ii",
+              "omifunfun-village-i",
+              "omifunfun-village-ii",
+              "dispensary-onigboogi",
+              "baptist-day-school-agbaje",
+              "st-henry-school-area-iv",
+              "st-stephen-school-ajebandele",
+              "baptist-day-school-bolorunduro",
+              "pry-school-idi-ogun"
+            ]
+          },
+          {
+            "ward": "oke-owena",
+            "polling_units": [
+              "alabameta-pry-school",
+              "poika-onikoro-village",
+              "l-a-schoolfadaka",
+              "l-a-school-yinmi-i",
+              "l-a-school-yinmi-ii",
+              "konta",
+              "poika-adewumi",
+              "holy-cross-pry-school",
+              "st-theresa-s-pry-school-odesan",
+              "poika-ogunleye"
+            ]
+          },
+          {
+            "ward": "olode",
+            "polling_units": [
+              "court-hall",
+              "united-pry-school-olode",
+              "motor-park-olode",
+              "st-mathew-school-idera",
+              "a-u-d-pry-school-olode-i",
+              "a-u-d-pry-school-olode-ii",
+              "aba-nata-olode",
+              "aye-odemuyiwa-olode",
+              "agbonbiti-olode",
+              "united-l-a-school-labata",
+              "primary-school-onipetesi",
+              "adereti-village"
+            ]
+          },
+          {
+            "ward": "osi",
+            "polling_units": [
+              "st-mathew-pry-schol-osi-okero",
+              "anglican-pry-school-osi-sooko",
+              "andu-maternity-andu",
+              "maternity-centre-isoya",
+              "aba-joshua-pry-school-aba-joshua-i",
+              "aba-joshua-pry-school-aba-joshua-ii",
+              "kajola-village-i",
+              "kajola-village-ii",
+              "a-u-d-pry-school-albert-village",
+              "alutierin-pry-school-albert-village",
+              "aba-ademakinwa"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ifedayo",
+        "wards": [
+          {
+            "ward": "akesin",
+            "polling_units": [
+              "oke-agbala-ks-ii",
+              "odomija-compound",
+              "ora-r-c-m-pry-school-i",
+              "ora-r-c-m-pry-school-ii",
+              "ora-r-c-m-pry-school-iii",
+              "ariyo-compound"
+            ]
+          },
+          {
+            "ward": "asaoni",
+            "polling_units": [
+              "oke-afin-market-1",
+              "oke-afin-market-ii",
+              "oke-yard-ora-i",
+              "oke-yard-ora-ii",
+              "agbugburu-junction",
+              "ora-grammar-school",
+              "maternity-centre"
+            ]
+          },
+          {
+            "ward": "aworo-oke-ila-rural",
+            "polling_units": [
+              "oke-ila-grammar-school-i",
+              "oke-ila-grammar-school-ii",
+              "ensikin",
+              "comm-pry-school",
+              "ejifunmi-centre",
+              "ilupeju-pry-school",
+              "dispensary-ayedaade",
+              "idi-awewe"
+            ]
+          },
+          {
+            "ward": "ayetoro",
+            "polling_units": [
+              "ayetoro",
+              "alagbede",
+              "idi-odan",
+              "abalagemo",
+              "aba-obalumo",
+              "arowodana-village"
+            ]
+          },
+          {
+            "ward": "balogun",
+            "polling_units": [
+              "s-d-a-pry-school-oke-ila-i",
+              "s-d-a-pry-school-oke-ila-ii",
+              "s-d-a-pry-school-oke-ila-iii",
+              "maternity-centre-oke-ila"
+            ]
+          },
+          {
+            "ward": "co-operative",
+            "polling_units": [
+              "oke-alafa-bus-stop-i",
+              "oke-alafa-bus-stop-ii",
+              "wii-market-square-ora-i",
+              "wii-market-square-ora-ii",
+              "wii-market-square-ora-iii"
+            ]
+          },
+          {
+            "ward": "isinmi",
+            "polling_units": [
+              "st-matthew-isinmi-olotu",
+              "isinmi-enle",
+              "aba-oluode",
+              "aba-oteu",
+              "aba-ogunlolu"
+            ]
+          },
+          {
+            "ward": "obaale",
+            "polling_units": [
+              "baptist-pry-school-i",
+              "baptist-pry-school-ii",
+              "baptist-pry-school-iii",
+              "dagbolu-junction-i",
+              "dagbolu-junction-ii",
+              "okolode-area-yaya",
+              "obala"
+            ]
+          },
+          {
+            "ward": "oyi",
+            "polling_units": [
+              "l-a-pry-school-i",
+              "l-a-pry-school-ii",
+              "st-stephen-school-araromi",
+              "asaoye-village",
+              "oyi-adio",
+              "st-james-pry-school-oyi-adunni",
+              "aba-ikirun",
+              "community-pry-sch-ajembamidele"
+            ]
+          },
+          {
+            "ward": "temidire",
+            "polling_units": [
+              "l-a-pry-school-ora",
+              "l-a-pry-school-ora",
+              "comm-pry-school-temidire",
+              "st-stephen-pry-school",
+              "market-centre",
+              "papa-sirajudeen-pry-school"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ifelodun",
+        "wards": [
+          {
+            "ward": "amola-ikirun",
+            "polling_units": [
+              "old-iragbiji-road-african-church-gramm-school-ikirun",
+              "gbalade-s-compound-ikirun-gbalade",
+              "amola-s-compound-amola",
+              "idiose-idi-ose",
+              "elemo-s-compound-elemo",
+              "ayara-gbena-s-compound-gbena",
+              "abitimo-compound-ibitimo-oloola",
+              "oyo-square-oyo-square"
+            ]
+          },
+          {
+            "ward": "eesa-ikirun",
+            "polling_units": [
+              "oke-iroko-st-all-saints-pry-school-ikirun",
+              "oke-iroko-st-baptist-day-school-ikirun",
+              "open-space-in-oke-iroko-oke-iroko",
+              "open-space-in-oja-oke-oja-oke",
+              "elejin-s-compound-elejin",
+              "agbajari-s-compound-agbajari",
+              "ojude-oluawo-ojude-oluawo",
+              "eesa-square-eesa-square"
+            ]
+          },
+          {
+            "ward": "ekoende-eko-ajala",
+            "polling_units": [
+              "along-oke-amola-road-nud-school-eko-ende",
+              "eko-ende-court-hall-court-hall-eko-ende",
+              "eko-ende-st-andrew-s-school-eko-ende",
+              "along-ore-eke-ende-high-school",
+              "osolo-square-osolo-square-i",
+              "osolo-square-osolo-square-ii",
+              "olufi-village-olufi-village",
+              "ekoajala-st-michael",
+              "eko-ajala-dispensary",
+              "eko-ajala-baale-square"
+            ]
+          },
+          {
+            "ward": "iba-i",
+            "polling_units": [
+              "iba-open-space-rcm-1",
+              "iba-open-space-rcm-ii",
+              "oja-obada-oja-obada-i",
+              "oja-obada-oja-obada-ii",
+              "school-premises-jehovah-jire",
+              "okose-village-okose-village"
+            ]
+          },
+          {
+            "ward": "iba-ii",
+            "polling_units": [
+              "open-space-iba-st-peter-s-school-i",
+              "iba-st-peters-school-iba-i",
+              "iba-st-peter-s-school-iba-ii",
+              "gaa-lambe-gaa-lambe",
+              "igaa-saliu-igaa-saliu",
+              "ojomu-compound-ojomu-compound",
+              "alaaro-alaaro",
+              "aoku-aoku"
+            ]
+          },
+          {
+            "ward": "ikirun-rural",
+            "polling_units": [
+              "dagbolu-l-a-school-dagbolu",
+              "dagbolu-l-a-school-dagbolu",
+              "fed-govt-college-fed-govt-college",
+              "oluode-market-square-oluode-market",
+              "fidibomi-fidibomi-olobedu-idiosan",
+              "d-t-c-dtc",
+              "seke-village-simo-pry-school"
+            ]
+          },
+          {
+            "ward": "isale-oke-afo",
+            "polling_units": [
+              "okeafo-methods-pry-school-ikirun",
+              "baba-s-sale-compound-babasale-titilayo",
+              "oke-afo-holy-trinity-pry-school-ikirun",
+              "olota-s-compound-olota-owode-i",
+              "olota-s-compound-olota-owode-ii",
+              "adeyemi-market-adeyemi-market-square",
+              "elemo-square-elemo-square",
+              "arefonta-area-arefonta"
+            ]
+          },
+          {
+            "ward": "obagun",
+            "polling_units": [
+              "iree-road-maternity",
+              "obaagun-st-michael-pry-school-obaagun-i",
+              "obaagun-st-michael-pry-school-ii",
+              "aogun-compound-aogun-baber-centre",
+              "obaagn-court-hall-obaagun-i",
+              "eesa-square-eesa-square-i",
+              "eesa-square-eesa-square-ii",
+              "oke-suuru-obaagun",
+              "olorunsogo-area-olorunsogo"
+            ]
+          },
+          {
+            "ward": "okeba-ikirun",
+            "polling_units": [
+              "esorun-square-esorun-square",
+              "eweta-comunity-pry-school-eweta",
+              "st-saviours-pry-school-st-saviour-pry-school-i",
+              "st-saviour-pry-school-st-saviour-pry-school-ii",
+              "oja-baale-oja-baale",
+              "olukolo-st-paul-s-school-olukolo",
+              "adeji-igbo-ile",
+              "adeji-igbo-ile",
+              "old-inisa-old-inisa-odofin-square",
+              "eko-ende-road-oyebamiji-eko-ende-road",
+              "old-inisa-road-old-inisa-odofin-square"
+            ]
+          },
+          {
+            "ward": "olonde-ikirun",
+            "polling_units": [
+              "iragbiji-road-ikirun-holy-michael-pry-school-i",
+              "iragbiji-road-ikirun-holy-michael-pry-school-ii",
+              "olonde-comp-ikirun-olonde-ikirun",
+              "esorun-aniyeye-esorun-i",
+              "esorun-aniyeye-esorun-ii",
+              "idi-esu-shrine-idi-esu-i",
+              "idi-esu-shrine-idi-esu-ii",
+              "megida-kuoye-megida-kuoye",
+              "oke-agbon-oke-agbon"
+            ]
+          },
+          {
+            "ward": "owode-ikirun",
+            "polling_units": [
+              "aludundun-compound-aludundun",
+              "school-premises-cac-pry-school",
+              "school-premises-cac-pry-school",
+              "school-premises-aud-pry-school",
+              "school-premises-aud-pry-school",
+              "elemoso-square",
+              "anlamole-square-agbaleke",
+              "oloyan-square-oloyan-square",
+              "eyinloko-compound-eyinlomo-fekete-ebipologba"
+            ]
+          },
+          {
+            "ward": "station-road-ikirun",
+            "polling_units": [
+              "town-hall-town-court-hall",
+              "nifaaji-hotel-nifaaji",
+              "post-office-premises-post-office",
+              "ojude-aro-ojude-aro",
+              "adeyemi-st-nud-pry-school",
+              "adeyemi-st-nud-pry-school",
+              "ilorin-motor-park-ilorin-motor-park-akinorun-grammar-school",
+              "ajele-s-compound-ajele",
+              "adejumo-jaleoyemi-area-adejumo-jaleoyemi",
+              "balogun-square-balogun-imole-square",
+              "adeniyi-junction-adeniyi-junction"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ila",
+        "wards": [
+          {
+            "ward": "ajaba-edemosi-aba-orangun",
+            "polling_units": [
+              "idi-ogbagbara-village",
+              "aworookun-village",
+              "alagbede-village",
+              "cooperative-store-ajaba",
+              "ajaba-market-square-i",
+              "ajaba-market-square-ii",
+              "baptist-primary-school-aba-orangun",
+              "ejigbo-orangun-market-square",
+              "l-a-pry-school-edemosi",
+              "edemosi-market-square"
+            ]
+          },
+          {
+            "ward": "ejigbo-i",
+            "polling_units": [
+              "baptist-pry-school-oke-ejigbo-i",
+              "baptist-pry-school-oke-ejigbo-ii",
+              "temidire",
+              "ojude-obaala-oke-ejigbo-i",
+              "ojude-obaala-oke-ejigbo-ii",
+              "post-office",
+              "igbonnibi-town-hall-i",
+              "igbonnibi-town-hall-ii",
+              "ojude-orangun-i",
+              "ojude-orangun-ii",
+              "ita-sapon",
+              "araromi-i",
+              "araromi-ii",
+              "babakerere-junction",
+              "igbonnibi-high-school",
+              "gaa-fulani"
+            ]
+          },
+          {
+            "ward": "ejigbo-ii",
+            "polling_units": [
+              "ojude-enare",
+              "cooperative-store-i",
+              "cooperative-store-ii",
+              "olootu",
+              "dispensary",
+              "ojude-obajoko",
+              "ojude-obaale",
+              "awugbo",
+              "ajioni"
+            ]
+          },
+          {
+            "ward": "ejigbo-iii",
+            "polling_units": [
+              "adekunle-junction",
+              "st-michael-pry-school",
+              "ajaba-junction",
+              "ajaba-garage",
+              "onifade-junction",
+              "new-garage",
+              "ogunlade-junction",
+              "iyana-iresi"
+            ]
+          },
+          {
+            "ward": "eyindi",
+            "polling_units": [
+              "ile-elemona-i",
+              "ile-elemona-ii",
+              "ojude-alasan-i",
+              "ojude-alasan-ii",
+              "eyindi-iyalode-i",
+              "eyindi-iyalode-ii",
+              "isale-afa-i",
+              "isale-afa-ii"
+            ]
+          },
+          {
+            "ward": "eyindi-iperin",
+            "polling_units": [
+              "ojude-aworo-i",
+              "ojude-aworoii",
+              "ojude-alapinni-i",
+              "ojude-alapinni-ii",
+              "ojude-alapinni-iii",
+              "ojude-alaa",
+              "odoode-opp-odoode-mosque",
+              "odoode-jangi-road",
+              "odoode-idi-langbodo-i",
+              "odoode-idi-lamgbodo-ii"
+            ]
+          },
+          {
+            "ward": "iperin",
+            "polling_units": [
+              "amowoyagi",
+              "ojude-ala-i",
+              "ojude-ala-ii",
+              "elemogun-i",
+              "elemogun-ii",
+              "ejemu-i",
+              "ejemu-ii",
+              "ogunlolu",
+              "saka-jangi-i",
+              "saka-jangi-ii",
+              "a-u-d-pry-school-ora-road",
+              "kolawole-junction",
+              "mechanic-workshop",
+              "idi-agbon",
+              "adeniji",
+              "omotoso-village-bus-stop"
+            ]
+          },
+          {
+            "ward": "isedo-i",
+            "polling_units": [
+              "oloponda-i",
+              "oloponda-ii",
+              "oloponda-alakoyi-secretariat-road",
+              "olojagbele-i",
+              "olojagbele-ii",
+              "loowa-i",
+              "loowa-ii",
+              "alakooyi-i",
+              "alakooyi-ii",
+              "maternity-cenre-onigbon",
+              "ita-ate-wogbade-i",
+              "ita-ate-a-wogbade-ii",
+              "secretariat"
+            ]
+          },
+          {
+            "ward": "isedo-ii",
+            "polling_units": [
+              "olukori-junction-i",
+              "olukori-junction-ii",
+              "st-matthew-pry-school-i",
+              "st-matthew-pry-school-ii",
+              "st-matthew-pry-school-iii",
+              "ojude-odosin-i",
+              "ojude-odosin-ii",
+              "ojude-abalagemo",
+              "st-julius-pry-school-i",
+              "st-julius-pry-school-ii"
+            ]
+          },
+          {
+            "ward": "oke-ede",
+            "polling_units": [
+              "afijio-i",
+              "afijio-ii",
+              "edigbon-ijimogodo-junction-oke-ede",
+              "edigbon-beside-nepa-transformer",
+              "edigbon-opp-nepa-transforemr",
+              "oore-i",
+              "oore-ii",
+              "obanihare-i",
+              "obanihare-ii",
+              "obajisun",
+              "s-d-a-pry-school-oke-ede-i",
+              "s-d-a-pry-school-oke-ede-ii"
+            ]
+          },
+          {
+            "ward": "oke-ola",
+            "polling_units": [
+              "no-sorrow-house-oke-ola",
+              "oke-ola-opp-c-s-church",
+              "sweet-mother-house-frontage",
+              "durotolu-junction",
+              "a-u-d-pry-school-oke-ola-i",
+              "aud-pry-school-oke-ola-ii",
+              "a-u-d-pry-school-oke-ola-iii",
+              "agbamu-junction",
+              "l-a-pry-school-aloyin-i",
+              "l-a-pry-school-aloyin-ii",
+              "aloyin-opp-general-hospital-ila",
+              "maternity-centre-oko-awo"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ilesa-east",
+        "wards": [
+          {
+            "ward": "biladu",
+            "polling_units": [
+              "adenle-junction",
+              "loriomo-biladu-area",
+              "works-yard-l-g-1",
+              "works-yard-l-g-2",
+              "akin-obi-way-oke-opo",
+              "l-a-pry-school-oke-opo",
+              "ido-ijesa-1",
+              "ido-ijesa-2"
+            ]
+          },
+          {
+            "ward": "bolorunduro",
+            "polling_units": [
+              "frontage-cocoa-store-ijofi",
+              "isona-church-area",
+              "orogba-area",
+              "apostolic-pry-school-oke-iro-1",
+              "apostolic-pry-school-oke-iro-2",
+              "oro-ajimoko-pry-school-i",
+              "oro-ajimoko-pry-school-ii",
+              "united-anglican-pry-school-1",
+              "united-anglican-pry-school-2",
+              "st-theresa-pry-school-i",
+              "st-theresa-pry-school-ii",
+              "olomilagbala-area",
+              "hope-grammar-school"
+            ]
+          },
+          {
+            "ward": "ifosan-oke-eso",
+            "polling_units": [
+              "baptist-pry-school-i",
+              "baptist-pry-school-2",
+              "apostolic-pry-school-i",
+              "apostolic-pry-school-2",
+              "n-u-d-pry-school-i",
+              "n-u-d-pry-school-2",
+              "c-s-pry-school-1",
+              "c-s-pry-sch-2"
+            ]
+          },
+          {
+            "ward": "ijamo",
+            "polling_units": [
+              "ijamo-market-area-i",
+              "ijamo-market-area-2",
+              "ijamo-lane-area",
+              "frontage-sanni-electronic-shop-ijamo",
+              "frontage-olaiya-weaving-industry",
+              "frontage-mechanic-workshop-ijoku-junction"
+            ]
+          },
+          {
+            "ward": "ilerin",
+            "polling_units": [
+              "orire-ogedengbe-pry-school",
+              "odi-olowo-area",
+              "demonstration-pry-school-irojo",
+              "frontage-chief-arojo-s-house",
+              "sabo-market-area",
+              "ijesa-muslim-grammar-school-i",
+              "ijesa-muslim-grammar-school-ii",
+              "ilerin-road",
+              "oke-alafia-junction",
+              "l-a-pry-school"
+            ]
+          },
+          {
+            "ward": "iloro-roye",
+            "polling_units": [
+              "st-john-pry-school-a",
+              "loriomo-odundun",
+              "idio-area",
+              "loriomo-anaye",
+              "durojaye-maternity",
+              "iroye-street-i",
+              "iroye-street-2",
+              "idifi-open-space"
+            ]
+          },
+          {
+            "ward": "imo",
+            "polling_units": [
+              "kajola-junction-i",
+              "kajola-junction-ii",
+              "local-government-dispensary-premises",
+              "l-a-pry-school-premises",
+              "in-front-of-ossadep",
+              "fadahunsi-avenue",
+              "old-water-works",
+              "ibl-second-gate",
+              "imo-garage-area-i",
+              "imo-garage-area-2"
+            ]
+          },
+          {
+            "ward": "isare",
+            "polling_units": [
+              "coop-building-junction",
+              "customary-court-ogburu",
+              "r-c-m-oke-padi",
+              "lisare-s-palace-area-i",
+              "loriomo-isare-ii",
+              "elegant-d-c-ogbon-arogbo",
+              "apostolic-central-school-1",
+              "apostolic-central-school-2"
+            ]
+          },
+          {
+            "ward": "itisin-ogudu",
+            "polling_units": [
+              "oye-sign-spraying-works-area",
+              "frontage-dayo-battery-shop",
+              "ogudu-ifosan-junction",
+              "mechanic-works-opp-methodist-mission",
+              "frontage-adex-mechanic-shop",
+              "lemon-compound"
+            ]
+          },
+          {
+            "ward": "okesa",
+            "polling_units": [
+              "frontage-of-obanla-s-palace-i",
+              "frontage-of-obanla-s-palace-ii",
+              "beside-c-s-s-bookshop",
+              "infront-of-saba-old-singer-i",
+              "in-front-of-saba-old-singer-ii",
+              "ilesha-grammar-school-premises-i",
+              "ilesha-grammar-school-premises-ii",
+              "c-a-c-school-i",
+              "c-a-c-school-ii"
+            ]
+          },
+          {
+            "ward": "upper-lower-ijoka",
+            "polling_units": [
+              "lejoka-palace-area",
+              "ogbon-okun-junction",
+              "ijoka-irewole-ct-cs-office",
+              "chief-lejoka-palace-area",
+              "methodist-pry-school",
+              "federal-technical-college-capaa-i",
+              "federal-technical-college-capaa-2",
+              "frontage-of-mechanic-workshop-opp-coca-coca"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ilesa-west",
+        "wards": [
+          {
+            "ward": "ayeso",
+            "polling_units": [
+              "open-space-around-loro-s-house",
+              "methodist-primary-school-oke-ese-i",
+              "methodist-primary-school-oke-ese-ii",
+              "l-a-school-ogbon-egbe",
+              "oke-iyin-open-space",
+              "space-near-police-barrack-i",
+              "space-near-police-barrack-ii",
+              "space-near-police-barrack-iii",
+              "open-space-oke-iyin-lane",
+              "st-james-primary-school-oke-iyin"
+            ]
+          },
+          {
+            "ward": "ereja",
+            "polling_units": [
+              "town-hall",
+              "cocoa-store-itabalogun",
+              "post-office",
+              "tipper-owners",
+              "space-around-market-place",
+              "space-beside-banuso",
+              "town-planning-area",
+              "ogboni-s-area-i",
+              "ogboni-s-area-ii",
+              "open-space-opp-mosque"
+            ]
+          },
+          {
+            "ward": "ikoti-araromi",
+            "polling_units": [
+              "african-jubilee-pry-school-ikoyi",
+              "open-space-around-alakata-s-house",
+              "space-near-odole-s-house-i",
+              "space-near-odole-s-house-ii",
+              "o-line-ita-ofa-junction-i",
+              "o-line-ita-ofa-junction-ii",
+              "p-line-junction-enu-odi-ikoyi",
+              "beside-jehoval-nisi-african-pry-school-i",
+              "beside-jehoval-nisi-african-pry-school-ii"
+            ]
+          },
+          {
+            "ward": "ilaje",
+            "polling_units": [
+              "frontage-of-nud-pry-school-moroko-road",
+              "space-near-end-of-tarred-road-isale-gen",
+              "old-school-of-health-technology",
+              "ogedengbe-comm-high-school",
+              "open-space-alaje-s-house",
+              "loriomo-ilaje-meth-school-area",
+              "imadin-junction",
+              "st-peter-s-frontage",
+              "meth-pry-school-loriomo-ilaje",
+              "imadin-area-near-akinniyi-s-house"
+            ]
+          },
+          {
+            "ward": "isida-adeti",
+            "polling_units": [
+              "african-pry-schol-aragan",
+              "l-a-dispensary-adeti-i",
+              "l-a-dispensary-adeti-ii",
+              "adeti-esira-strean-bank-area",
+              "space-around-esira-s-chieftancy-house",
+              "isida-mechanic-workshop",
+              "odo-agbede",
+              "opposite-baseeni-s-house-open-space"
+            ]
+          },
+          {
+            "ward": "isokun",
+            "polling_units": [
+              "temidire-pry-school-frontage",
+              "isokun-maternity-area",
+              "salvation-army-pry-school",
+              "zumuratul-pry-school-area",
+              "oke-omiru-mechanic-workshop",
+              "george-burton-college-i",
+              "george-burton-college-ii",
+              "l-a-pry-school-isokun-i",
+              "l-a-pry-school-isokun-ii",
+              "african-church-grammar-school-area",
+              "faith-foundation-n-p-school-i",
+              "faith-foundation-n-p-school-ii"
+            ]
+          },
+          {
+            "ward": "itakogun",
+            "polling_units": [
+              "idiroko-itakogun",
+              "ibosinni-near-mech-workshop",
+              "frontage-of-lokinran",
+              "frontage-of-babajide-i",
+              "frontage-of-babajide-ii",
+              "opposite-egbedi-mosque",
+              "igbogi-junction-orinkinran",
+              "idi-iroko-itakogun"
+            ]
+          },
+          {
+            "ward": "lower-egbedi",
+            "polling_units": [
+              "frontage-of-eminiwa",
+              "ireti-ayo-open-space",
+              "mech-workshop-near-gen-filling-station",
+              "open-space-ijesa-sport-club",
+              "idi-ayan-area-i",
+              "idi-ayan-area-ii",
+              "open-space-in-front-of-coca-cola-dept",
+              "egbe-idi-junction"
+            ]
+          },
+          {
+            "ward": "omofe-idasa",
+            "polling_units": [
+              "frontage-of-bamura-s-house",
+              "holy-trinity-a-school-omofe-i",
+              "holy-trinity-a-school-omofe-ii",
+              "holy-trinity-b-school-omofe-iii",
+              "holy-trinity-b-school-omofe-iv",
+              "mercy-clinic",
+              "ita-ofa-junction",
+              "sorundi-s-house-areai",
+              "sorundi-s-house-area-ii"
+            ]
+          },
+          {
+            "ward": "upper-and-lower-igbogi",
+            "polling_units": [
+              "olola-hall",
+              "upper-igbogi-aseda-s-house-area",
+              "space-near-amuru-house",
+              "oke-ola-open-space",
+              "space-near-risin-kin-s-house",
+              "idi-gbanja-area",
+              "igbogi-hall-i",
+              "igbogi-hall-area-i",
+              "open-space-near-mosque"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "irepodun",
+        "wards": [
+          {
+            "ward": "bara-a",
+            "polling_units": [
+              "bara-olunkan",
+              "alayan-compound",
+              "ile-oyo",
+              "woru-compound",
+              "oluawo-compound",
+              "jagun-i",
+              "jagun-ii",
+              "akodo-compound",
+              "a-u-d-pry-school-laaro",
+              "konda-ilobu",
+              "atoyebi-estate"
+            ]
+          },
+          {
+            "ward": "bara-b",
+            "polling_units": [
+              "olobu-market",
+              "ajibike-compound",
+              "idi-ire-market",
+              "lanloko",
+              "baba-odunayo",
+              "akinnu-i",
+              "akinnu-ii",
+              "olanipekun",
+              "boyeku",
+              "yibiri-compound",
+              "imam-arohun",
+              "methodist-pry-school"
+            ]
+          },
+          {
+            "ward": "elerin-a",
+            "polling_units": [
+              "elerin-market",
+              "esinkin-compound",
+              "jagun-compound",
+              "osolo-i",
+              "osolo-ii",
+              "akaparo-compound",
+              "onidun-compound",
+              "united-xtian-pry-school-i",
+              "united-xtian-pry-school-ii",
+              "oluode",
+              "isale-osun-erin",
+              "gogo-compound-erin",
+              "afolu-erin"
+            ]
+          },
+          {
+            "ward": "elerin-b",
+            "polling_units": [
+              "olumo-s-compound-erin",
+              "akomolehin-i",
+              "akomolehin-ii",
+              "united-xtian-pry-school",
+              "aniyan",
+              "ajilete",
+              "olukotun",
+              "alaka-area",
+              "ohe-area",
+              "agbede-area",
+              "asikan-area"
+            ]
+          },
+          {
+            "ward": "elerin-c",
+            "polling_units": [
+              "ayomeye-compound",
+              "arogun-compound",
+              "epa-area-erin",
+              "elemo-area",
+              "ahanrin-area",
+              "abelemure",
+              "seriki-compound",
+              "health-central-osogbo-road-erin",
+              "alaka",
+              "arije",
+              "jolooro"
+            ]
+          },
+          {
+            "ward": "elerin-d",
+            "polling_units": [
+              "daluja-area-erin",
+              "oloyan-area",
+              "akesin-area",
+              "asegi-area",
+              "balogun-area",
+              "awo-area",
+              "atere-area",
+              "apelegbe",
+              "c-a-c-pry-school-erin",
+              "iya-oba-compound"
+            ]
+          },
+          {
+            "ward": "elerin-e",
+            "polling_units": [
+              "agiriemu-erin",
+              "a-u-d-pry-school-erin",
+              "ikolaba-area",
+              "jagba-area-i",
+              "jagba-ii",
+              "oye-area",
+              "lakanla-area",
+              "tokede",
+              "a-u-d-pry-school-erin",
+              "oke-kau-erin",
+              "magbon"
+            ]
+          },
+          {
+            "ward": "olobu-a",
+            "polling_units": [
+              "open-space-olotin",
+              "open-space-alapupu",
+              "open-space-okekere",
+              "open-space-olujide-i",
+              "open-space-olujide-ii",
+              "open-space-nepa-area",
+              "open-space-kaaja",
+              "open-space-oluyere",
+              "open-space-afingba",
+              "open-space-dagbolu-i",
+              "open-space-dagbolu-ii",
+              "open-space-dagbolu-iii"
+            ]
+          },
+          {
+            "ward": "olobu-c",
+            "polling_units": [
+              "open-space-alagbaa-i",
+              "open-space-alagbaa-ii",
+              "ayanmu",
+              "oloso",
+              "open-space-owoniyi",
+              "isale-imale-pry-schol",
+              "open-space-kuelu",
+              "open-space-ope",
+              "open-space-aloko",
+              "open-space-oyadele",
+              "open-space-oluawo"
+            ]
+          },
+          {
+            "ward": "olobu-d",
+            "polling_units": [
+              "open-space-elemo",
+              "ajankannawon-comp",
+              "akeyan-s-compound",
+              "alurin",
+              "keyiwo",
+              "orioke-quarters",
+              "l-a-pry-school-gbobamu",
+              "ire-akari",
+              "aromiwe",
+              "dogo-i",
+              "dogo-ii",
+              "atukale"
+            ]
+          },
+          {
+            "ward": "olubu-b",
+            "polling_units": [
+              "open-space-healh-centre-ojutu",
+              "open-space-araromi-market",
+              "st-paul-s-grammar-school",
+              "oluwomi-quarters-i",
+              "oluwomi-quarters-ii",
+              "oniwana-area",
+              "ogala-area",
+              "onilewe-area",
+              "ogunkeye",
+              "olubuse",
+              "ojawuro",
+              "ologele",
+              "seji-area"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "irewole",
+        "wards": [
+          {
+            "ward": "ikire-a",
+            "polling_units": [
+              "st-john-s-pry-school-ayedade-ikire-i",
+              "st-john-s-pry-school-ayedade-ikire-ii",
+              "ori-eru-open-space-ori-eru-ikire-i",
+              "ori-eru-open-space-ori-eru-ikire-ii",
+              "moringbere-hall-open-space",
+              "atoba-oja-open-space",
+              "ejemu-open-space-ori-eru-ikire-i",
+              "ejemu-open-space-ori-eru-ikire-ii",
+              "oke-awo-junction-ikire",
+              "moosa-open-space-ikire",
+              "jifarolo-open-space-ikire"
+            ]
+          },
+          {
+            "ward": "ikire-b",
+            "polling_units": [
+              "ajigbo-open-space-abata-stream",
+              "old-motor-garage-market-square",
+              "olukunle-oja-open-space-opeyemi-area",
+              "olukunle-oke-odo-open-space-abata-stream",
+              "palace-open-space-ibwa-ikire",
+              "atoba-oke-odo-open-space-oke-odo-area",
+              "agbongbon-open-space-abata-stream-area"
+            ]
+          },
+          {
+            "ward": "ikire-c",
+            "polling_units": [
+              "ajilo-open-space-itaakun-ikire-i",
+              "ajilo-open-space-itaakun-ikire-ii",
+              "falabi-open-space-odeadie-ikire",
+              "sagba-open-spade-odeadie-ikire",
+              "odeagbon-open-space-odeagbon-ikire",
+              "odeadie-open-space-odeadie-ikire",
+              "onilu-popo-open-space-popo-ikire",
+              "asiyin-popo-open-space-popo-ikire",
+              "jadubi-open-space-popo-ikire"
+            ]
+          },
+          {
+            "ward": "ikire-d",
+            "polling_units": [
+              "kujogbo-open-space-okeola-ikire",
+              "oluwata-open-space-okeola-ikire-i",
+              "oluwata-open-space-okeola-ikire-ii",
+              "oluofinrin-market-oluofinrin-ikire-i",
+              "oluofinrin-market-oluofinrin-ikire-ii",
+              "lesi-open-space-etaakun-ikire",
+              "sagba-open-space-oluofinrin-ikire",
+              "ilupeju-oriolori-ilupeju-ikire",
+              "onilu-itaakun-itaakun-ikire",
+              "fagbure-open-space-itaakun-ikire"
+            ]
+          },
+          {
+            "ward": "ikire-e",
+            "polling_units": [
+              "fatima-college-fatima-area",
+              "adeyinka-old-garage-lakoosin-area",
+              "n-u-d-sanngo-sanngo-area",
+              "olufi-junction-olufi-area",
+              "itaakun-junction-itaakun-area",
+              "rural-health-centre-centre-area",
+              "st-augustine-grammar-school",
+              "amukuku-amukuku-area",
+              "molarere-garage-open-space"
+            ]
+          },
+          {
+            "ward": "ikire-f",
+            "polling_units": [
+              "baase-open-space-baase-ikire",
+              "sabo-square-sabo-ikire",
+              "carpenter-s-hal-moro-ikire-i",
+              "carpenter-s-hall-moro-ikire-ii",
+              "asupoto-open-space-base-ikire",
+              "oosafafioye-open-space-moringbere-ikire",
+              "baptist-day-school-sango-ikire-i",
+              "baptist-day-school-sango-ikire-ii",
+              "odeyinka-old-garage-lakoosin-ikire",
+              "alaha-open-space-baase-ikire",
+              "okin-open-space-popo-ikire",
+              "magistrate-court-ayedade-ikire"
+            ]
+          },
+          {
+            "ward": "ikire-g",
+            "polling_units": [
+              "paakoi-open-space-oke-ada-area",
+              "olota-open-space-oke-ada-area",
+              "a-d-c-pry-school-oke-ada-area",
+              "kuseru-open-space-oke-ada-area",
+              "akogun-open-space-oke-ada-area",
+              "oyepo-open-space-oke-ada-area",
+              "c-h-s-oke-ada-oke-ada-area",
+              "oniledu-open-space-oke-ada-area"
+            ]
+          },
+          {
+            "ward": "ikire-h",
+            "polling_units": [
+              "ologungun-open-space-ologungun-area",
+              "old-nepa-office-ogunyemi-area",
+              "jolaiya-junction-jolaiya-area",
+              "odegade-open-space-okeodo-area",
+              "eleye-open-space-okeodo-area",
+              "baralola-open-space-okeodo-area",
+              "islamihal-pry-school-ogunyemi-area",
+              "ikudoro-open-space-itamerin-junction"
+            ]
+          },
+          {
+            "ward": "ikire-i",
+            "polling_units": [
+              "new-garage-open-space-sunmoye-area",
+              "olorisa-oko-square-olorisa-oko-area",
+              "a-u-d-school-atile-area",
+              "naira-and-kobo-open-space-naira-kobo-area",
+              "onikinnihun-open-space-onikinihun-area",
+              "obada-court-obada-court",
+              "temidire-open-space-temidire-area",
+              "ologbin-itamerin-area",
+              "st-peter-and-paul-sunmoye-pry-school-area"
+            ]
+          },
+          {
+            "ward": "ikire-j",
+            "polling_units": [
+              "oloowa-village-oloowa-village",
+              "oosa-village-oosa-village",
+              "a-u-d-school-agbora-agbora-village",
+              "wasinmi-market-wasinmi-village",
+              "st-john-s-pry-school-fidiwo-fidiwo-vllage",
+              "elere-village-elere-village",
+              "balogun-village-balogun-village-i",
+              "balogun-village-balogun-village-ii",
+              "c-h-s-school-wasinmi-wasinmi-village",
+              "majeroku-village-majeroku-village",
+              "ajilo-nla-village-ajilo-village",
+              "funmilayo-village-open-space-funmilayo-village",
+              "baptist-day-school-alaye-alaye-village"
+            ]
+          },
+          {
+            "ward": "ikire-k",
+            "polling_units": [
+              "irewole-maternity-ebunla-village",
+              "molarere-village-open-space-molarere-village",
+              "a-d-c-school-dagbolu-village-i",
+              "a-d-c-school-oluseke-village-ii",
+              "a-d-c-school-oluseke-village-iii",
+              "olobe-village-open-space-olobe-village",
+              "akinropo-village-open-space-akinropo-village",
+              "st-james-pry-school-akan-agbongbon-village",
+              "a-d-c-pry-school-jagun-village",
+              "aajo-village-open-space-aajo-village",
+              "odokoto-village-open-space-odokoto-village",
+              "ayetoro-village-open-space-ayetoro-village",
+              "odeyinka-baptist-day-school-odeyinka-village-i",
+              "odeyinka-baptist-day-school-odeyinka-village-ii",
+              "bamidele-village-open-space-bamidele-village",
+              "arinkinkin-village-arinkinkin",
+              "molausa-village-molausa",
+              "baptist-day-school-onikan-village",
+              "itamerin-village-itamerin",
+              "efunle-alaguntan-pry-school-efunle-alaguntan",
+              "baptist-pry-schol-olokoko-village",
+              "ayedaade-oba-village-ayedaade-oba",
+              "a-u-d-odesilo-village-odesilo"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "isokan",
+        "wards": [
+          {
+            "ward": "alapomu-i-odo-osun",
+            "polling_units": [
+              "baptist-pry-school-oke-olosi",
+              "st-barnabas-pry-school",
+              "lagbaja-new-post-office",
+              "apomu-town-hall-i",
+              "apomu-town-hall-ii",
+              "health-office-apomu"
+            ]
+          },
+          {
+            "ward": "alapomu-ii",
+            "polling_units": [
+              "papanla",
+              "mopa-aayedun",
+              "omo-osu",
+              "oosa-faru",
+              "oke-jago"
+            ]
+          },
+          {
+            "ward": "asalu-mogimogi",
+            "polling_units": [
+              "quarry-area-1",
+              "quarry-area-ii",
+              "awotedo",
+              "african-primary-school",
+              "bank-area-commerce-and-credit",
+              "a-d-c-pry-school-apomu",
+              "orita-agunla",
+              "ayodele-area"
+            ]
+          },
+          {
+            "ward": "asalu-ikoyi",
+            "polling_units": [
+              "c-a-c-pry-school-ikoyi",
+              "st-rita-s-n-p-schol-ikoyi",
+              "st-michael-pry-school-asejire",
+              "dispensary",
+              "alekuso-village",
+              "st-anthony-grammar-school"
+            ]
+          },
+          {
+            "ward": "awala-i",
+            "polling_units": [
+              "elebenla",
+              "awala-market",
+              "st-michael-pry-schol-agbaogun",
+              "a-d-c-pry-school-onikooko",
+              "african-pry-school-okodowo",
+              "market-square-egbeda-oko",
+              "d-c-school-orija-marun"
+            ]
+          },
+          {
+            "ward": "awala-ii",
+            "polling_units": [
+              "st-jude-s-pry-school-ayepe",
+              "st-barnabas-pry-school-abatisa",
+              "oke-oko-market",
+              "a-d-c-pry-school-oja-oosa",
+              "faru-alapomu-village",
+              "akumora"
+            ]
+          },
+          {
+            "ward": "idogun-ward",
+            "polling_units": [
+              "aworin-sadiku-adc-pry-sch",
+              "a-u-d-pry-school-olokuta",
+              "holy-trinity-lasegba",
+              "iwari-adefi-pry-schol",
+              "eruku-village"
+            ]
+          },
+          {
+            "ward": "olukoyi-oja-osun",
+            "polling_units": [
+              "library",
+              "alapinni",
+              "olukoyi-oja-osun",
+              "olode-orioke",
+              "a-u-d-ikoyi"
+            ]
+          },
+          {
+            "ward": "oosa-adifa",
+            "polling_units": [
+              "eruku-hall-1",
+              "eruku-hall-ii",
+              "oosa-ekanade",
+              "ejemu-hall",
+              "aro-oladele",
+              "bodude-area"
+            ]
+          },
+          {
+            "ward": "oranran-ward",
+            "polling_units": [
+              "r-c-m-pry-school-mopa",
+              "st-paul-s-pry-school-abidemi",
+              "a-d-c-pry-school-mowo-oba",
+              "st-mary-s-pry-school-oranran-i",
+              "st-mary-s-primary-school-oranran-ii",
+              "oran-olumelo",
+              "alako-village"
+            ]
+          },
+          {
+            "ward": "osa-ikoyi-oloke",
+            "polling_units": [
+              "st-david-s-pry-school-ikoyi",
+              "ikoyi-town-hall",
+              "maternity-centre",
+              "timi-compound",
+              "oloke-quarters",
+              "oba-onile-owo"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "iwo",
+        "wards": [
+          {
+            "ward": "gidigbo-i",
+            "polling_units": [
+              "kajola-market-i",
+              "kajola-market-ii",
+              "opp-aipate-baptist-church-aipate",
+              "mosabi",
+              "baptist-pry-school-aipate-i",
+              "baptist-pry-school-aipate-ii",
+              "baptist-pry-school-aipate-iii"
+            ]
+          },
+          {
+            "ward": "gidigbo-ii",
+            "polling_units": [
+              "ajakoore-i",
+              "ajakoore-ii",
+              "ajakoore-iii",
+              "post-office-frontage-i",
+              "post-office-ii",
+              "post-office",
+              "elemo-i",
+              "elemo-ii",
+              "ode-ere",
+              "motoku",
+              "ode-ofe-i",
+              "ode-ofe-ii"
+            ]
+          },
+          {
+            "ward": "gidigbo-iii",
+            "polling_units": [
+              "d-c-pry-school-oke-ifa-i",
+              "d-c-pry-school-oke-ifa-ii",
+              "dispensary-alaye-i",
+              "dispensary-alaye-ii",
+              "dispensary-alaye-iii",
+              "baptist-high-school-adeke-i",
+              "baptist-high-school-adeke-ii",
+              "d-c-pry-school-laito"
+            ]
+          },
+          {
+            "ward": "isale-oba-i",
+            "polling_units": [
+              "a-u-d-pry-school-akinfenwa-i",
+              "a-u-d-pry-school-akinfenwa-ii",
+              "a-u-d-pry-school-akinfenwa-iii",
+              "a-u-d-pry-school-akinfenwa-iv",
+              "oloola-i",
+              "oloola-ii",
+              "ode-awudere-junction"
+            ]
+          },
+          {
+            "ward": "isale-oba-ii",
+            "polling_units": [
+              "customary-court-ode-oba-i",
+              "customary-court-ode-oba-ii",
+              "customary-court-ode-oba-iii",
+              "customary-court-ode-oba-iv",
+              "petugbele-i",
+              "petugbele-ii",
+              "orangun",
+              "idi-oke-i",
+              "idi-oke-ii"
+            ]
+          },
+          {
+            "ward": "isale-oba-iii",
+            "polling_units": [
+              "baptist-pry-school-oke-odo-i",
+              "baptist-pry-school-oke-odo-ii",
+              "d-c-pry-school-ajangbala-i",
+              "d-c-pry-school-ajangbala-ii",
+              "state-hospital-first-gate",
+              "hospital-road-kuti-junction",
+              "hospital-road-junction",
+              "panada",
+              "paaku",
+              "adediti"
+            ]
+          },
+          {
+            "ward": "isale-oba-iv",
+            "polling_units": [
+              "d-c-pry-school-oke-ola-i",
+              "d-c-pry-school-oke-ola-ii",
+              "st-michael-pry-school-obatedo-i",
+              "st-michael-pry-school-obatedo-ii",
+              "opababa",
+              "yafoye-st-augustine-pry-sch",
+              "olunle"
+            ]
+          },
+          {
+            "ward": "molete-i",
+            "polling_units": [
+              "ajigbaagun-i",
+              "ajigbaagun-ii",
+              "ajigbaagun-iii",
+              "ajigbaagun-iv",
+              "ajadi-i",
+              "ajadi-ii",
+              "moseru",
+              "oloye",
+              "opp-st-stephen-s-ang-pry-school-onilete"
+            ]
+          },
+          {
+            "ward": "molete-ii",
+            "polling_units": [
+              "osogbo-junction-old-iwo-osogbo-road-iwo",
+              "aroworeki",
+              "aladoorun",
+              "afiku-olowe",
+              "water-works-road-olu-yori",
+              "opposite-water-works-first-gate",
+              "elewe",
+              "motokese"
+            ]
+          },
+          {
+            "ward": "molete-iii",
+            "polling_units": [
+              "a-u-d-pry-school-agbogbo",
+              "near-comm-bank-odoori",
+              "near-lawyer-atanda-s-area",
+              "araromi-market",
+              "sabo-araromi-market",
+              "methodist-united-grammar-school-araromi",
+              "methodist-pry-school-araromi",
+              "alfa-tella",
+              "kondo-asati",
+              "elesu",
+              "ago-ogunrinde",
+              "ogede"
+            ]
+          },
+          {
+            "ward": "oke-adan-i",
+            "polling_units": [
+              "jagun-ilu-street-i",
+              "jagun-ilu-street-ii",
+              "old-council-1",
+              "old-council-ii",
+              "old-council-iii",
+              "olumodan",
+              "omosan"
+            ]
+          },
+          {
+            "ward": "oke-adan-ii",
+            "polling_units": [
+              "lakata-i",
+              "lakata-ii",
+              "lakata-iii",
+              "ponkuku-i",
+              "ponkuku-ii",
+              "idi-agbede",
+              "idi-ose",
+              "baase"
+            ]
+          },
+          {
+            "ward": "oke-adan-iii",
+            "polling_units": [
+              "d-c-pry-school-jagun-ode-i",
+              "d-c-pry-school-jagun-ode-ii",
+              "olokobi-olomi",
+              "baptist-pry-school-feesu-i",
+              "baptist-pry-school-feesu-ii",
+              "opposite-d-c-pry-school-araromi",
+              "a-u-d-pry-school-araromi-i",
+              "a-u-d-pry-school-araromi-ii",
+              "town-planning-area",
+              "olokoobi",
+              "old-oyo-park-olukotun"
+            ]
+          },
+          {
+            "ward": "oke-oba-i",
+            "polling_units": [
+              "baptist-pry-school-agberire-village-i",
+              "baptist-pry-school-agberire-village-ii",
+              "islamic-pry-school-olosi-village",
+              "agbona-village",
+              "awokekere-village",
+              "daodu-village",
+              "ashipa-oniyangi-village",
+              "baptist-pry-school-alpatenla-village"
+            ]
+          },
+          {
+            "ward": "oke-oba-ii",
+            "polling_units": [
+              "d-c-pry-school-elemo-village",
+              "d-c-pry-school-awusebaale-village",
+              "d-c-pry-school-oloba-ogundiran-village",
+              "d-c-pry-school-papa-village",
+              "d-c-pry-school-ogunajo-village",
+              "d-c-pry-school-agoro-village",
+              "n-u-d-pry-school-obajoko-village",
+              "d-c-pry-school-oloba-ijuoba-village",
+              "d-c-pry-school-idi-iroko-village-i",
+              "d-c-pry-school-idi-iroko-village-ii",
+              "d-c-school-foritaje-village",
+              "d-c-school-anarun-village",
+              "baptist-pry-school-anarun-village",
+              "baptist-pry-school-ogburo-village-i",
+              "baptist-pry-school-ogburo-village-ii",
+              "n-u-d-pry-school-oloola-village",
+              "jato-village",
+              "ayede-village",
+              "d-c-pry-school-idamodu-village",
+              "baptist-pry-school-papo-village",
+              "joluegan-village"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "obokun",
+        "wards": [
+          {
+            "ward": "eesun-ido-oko",
+            "polling_units": [
+              "eesun-maternity-centre",
+              "ibala-maternity-centre",
+              "ijana-l-a-pry-school",
+              "ijaregbe-methodist-pry-school",
+              "ido-oko-grammar-school",
+              "ayetoro-open-space"
+            ]
+          },
+          {
+            "ward": "esa-odo",
+            "polling_units": [
+              "esa-odo-apostolic-pry-school",
+              "esa-odo-market-square",
+              "esa-odo-st-david-s-pry-school",
+              "esa-odo-maternity-centre",
+              "esa-odo-united-primary-school",
+              "oko-kojegbin-open-space"
+            ]
+          },
+          {
+            "ward": "esa-oke",
+            "polling_units": [
+              "esa-oke-town-hall",
+              "esa-oke-st-joseph-s-school",
+              "esa-oke-st-peter-s-pry-school",
+              "esa-oke-united-school",
+              "esa-oke-african-church-pry-school-i",
+              "esa-oke-african-church-pry-school-ii",
+              "esa-oke-l-a-school-i",
+              "esa-oke-l-a-school-ii",
+              "oja-oko-open-space",
+              "esa-oke-grammar-school",
+              "esa-oke-farm-settlement",
+              "oke-tafia-primary-school",
+              "ido-ayegunle-pry-school"
+            ]
+          },
+          {
+            "ward": "ibokun-township",
+            "polling_units": [
+              "ibokun-post-office",
+              "ibokun-n-u-d-pry-school",
+              "ibokun-st-peter-s-pry-schol",
+              "ibokun-catholic-pry-school",
+              "ibokun-l-a-grammar-school",
+              "ibokun-ibokun-grammar-school",
+              "ibokun-court-hall",
+              "ibokun-dispensary",
+              "ibokun-isale-alfa"
+            ]
+          },
+          {
+            "ward": "ilahun-ikinyinwa",
+            "polling_units": [
+              "ilahun-apostolic-pry-school",
+              "ilahun-maternity-centre",
+              "ikinyinwa-st-john-s-pry-school",
+              "ikinyinwa-town-hall",
+              "gbogidigbo-open-space",
+              "itaosun-open-space"
+            ]
+          },
+          {
+            "ward": "ilare",
+            "polling_units": [
+              "ilare-methodist-pry-school",
+              "ilare-st-prancis-pry-school",
+              "ilare-l-i-e-zonal-office",
+              "ilare-market-square",
+              "ilare-community-school",
+              "iketewi-community-pry-school",
+              "ajibamidele-egigun-open-space"
+            ]
+          },
+          {
+            "ward": "ilase-idominasi",
+            "polling_units": [
+              "ilase-n-u-d-pry-school",
+              "ilase-town-hall",
+              "coker-market-square",
+              "iponda-l-a-pry-school",
+              "kiloru-anglican-pry-school",
+              "iregun-methodist-pry-school",
+              "oora-l-a-pry-school",
+              "alafon-open-space",
+              "olorunda-l-a-school",
+              "oniyere-kati-l-a-pry-school",
+              "ayetoro-l-a-pry-school",
+              "idominasi-towh-hall",
+              "ilase-dispensary"
+            ]
+          },
+          {
+            "ward": "imesi-ile",
+            "polling_units": [
+              "imesi-ile-ijana-pry-school",
+              "imesi-ile-town-hall",
+              "imesi-ile-rural-health-centre",
+              "imesi-ile-methodist-pry-school",
+              "imesi-ile-st-paul-s-school",
+              "imesi-ile-l-a-school-i",
+              "imesi-ile-l-a-school-ii",
+              "imesi-ile-market-square"
+            ]
+          },
+          {
+            "ward": "ipetu-ile-adaowode",
+            "polling_units": [
+              "ipetu-ile-methodist-pry-school-i",
+              "ipetu-ile-methodist-pry-school-ii",
+              "itiya-pry-school",
+              "olomu-l-a-pry-school",
+              "adaowode-baptist-pry-school",
+              "oja-titun-l-a-pry-school",
+              "erinja-erinja-market",
+              "ipetu-ile-surajudeen-pry-schol"
+            ]
+          },
+          {
+            "ward": "otan-ile",
+            "polling_units": [
+              "otan-ile-imuo-pry-school",
+              "otan-ile-market-square",
+              "otanile-n-u-d-school",
+              "otan-ile-cooperative-store",
+              "otan-ile-inigbo-pry-school",
+              "otan-ile-town-hall",
+              "otan-ile-n-u-d-school"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "odo-otin",
+        "wards": [
+          {
+            "ward": "asi-asaba",
+            "polling_units": [
+              "st-andrew-s-pry-school-i-asaba",
+              "opp-african-church-asaba",
+              "st-andrew-s-pry-school-ii-asaba",
+              "asi-market-square-asi",
+              "opp-alasi-s-palace-asi"
+            ]
+          },
+          {
+            "ward": "baale",
+            "polling_units": [
+              "oyinlola-d-c-pry-school-okuku",
+              "shopping-complex-ekusa-raod-okuku",
+              "st-michael-s-pry-school-okuku-i",
+              "st-michael-s-pry-school-okuku-ii",
+              "in-front-of-adebomi-family-house-okuku",
+              "ekusa-road-near-idi-ogun-okuku",
+              "in-front-of-agboluaje-s-house-okuku",
+              "opposite-gustus-printers-okuku-i",
+              "9-oba-olaosebikan-road"
+            ]
+          },
+          {
+            "ward": "ekosin-iyeku",
+            "polling_units": [
+              "baptist-pry-school-ekosin",
+              "court-hall-ekosin",
+              "st-paul-s-pry-school-ekosin",
+              "ekosin-grammar-school-ekosin",
+              "town-hall-iyeku",
+              "alagbede-comp-beside-baptist-pry-school-ekosin",
+              "elesin-funfun-community-pry-school-iyeku"
+            ]
+          },
+          {
+            "ward": "esa-otun-baale-ode",
+            "polling_units": [
+              "methodist-pry-school-i-inisa",
+              "baptist-pry-school-inisa",
+              "oke-dyan-hall-inisa",
+              "in-front-of-orisa-oko-shrine-inisa",
+              "ile-paja-oke-compound-inisa",
+              "opposite-jehovah-witness-hall-inisa",
+              "methodist-pry-school-ii-inisa",
+              "23-olorede-compund-inisa"
+            ]
+          },
+          {
+            "ward": "faji-opete",
+            "polling_units": [
+              "maternity-centre-premises-faaji",
+              "st-john-s-pry-school-faaji",
+              "n-u-d-pry-school-opete",
+              "town-hall-faaji",
+              "semi-ola-area-opete"
+            ]
+          },
+          {
+            "ward": "igbaye",
+            "polling_units": [
+              "post-office-igbaye",
+              "n-y-s-c-bus-stop-igbaye",
+              "st-mary-s-pry-school-igbaye",
+              "baptist-pry-school-igbaye-i",
+              "n-u-d-pry-school-igbaye",
+              "alagbede-blacksmith-shop-igbaye",
+              "imuleke-village-igbaye"
+            ]
+          },
+          {
+            "ward": "ijabe-ila-odo",
+            "polling_units": [
+              "st-andrew-s-pry-school-ijabe",
+              "st-francis-gabriel-pry-school-ijabe",
+              "town-hall-ijabe",
+              "n-u-d-pry-school-konta",
+              "town-hall-ila-odo",
+              "in-front-of-postal-agency-ila-odo",
+              "n-u-d-pry-school-alapata"
+            ]
+          },
+          {
+            "ward": "jagun-osi-bale-ode",
+            "polling_units": [
+              "st-augustine-pry-school-inisa",
+              "jalugun-aibio-square-inisa",
+              "a-u-d-pry-school-inisa",
+              "isale-ako-area-inisa",
+              "2-agana-area-inisa",
+              "73a-agbeye-road-inisa",
+              "araoye-hall-inisa"
+            ]
+          },
+          {
+            "ward": "oba-ojomu",
+            "polling_units": [
+              "st-anthony-pry-school-okuku",
+              "motor-park-okuku",
+              "court-hall-i-okuku",
+              "opposite-old-national-bank-okuku",
+              "owode-market-square-okuku",
+              "oyekunle-d-c-pry-school-okuku",
+              "open-space-infront-of-alimi-s-house-ojomu-area-okuku",
+              "court-hall-ii-okuku",
+              "in-front-of-pa-david-alaran-s-house-okuku",
+              "20b-araromi-area-okuku"
+            ]
+          },
+          {
+            "ward": "okua-ekusa",
+            "polling_units": [
+              "oja-oba-market-square-okua",
+              "towh-hall-okua",
+              "st-thomas-pry-school-i-ekusa",
+              "postal-agency-ekusa",
+              "st-thomas-pry-school-ii-ekusa",
+              "st-cecilia-s-pry-school-okua"
+            ]
+          },
+          {
+            "ward": "oloyan-elemosho-esa",
+            "polling_units": [
+              "st-peter-s-pry-school-oyan",
+              "ajibope-hall-opp-c-a-c-oyan",
+              "oja-oba-market-square-oyan",
+              "onile-compound-at-open-space-near-adegoke-family-house-oyan",
+              "alagbede-abutu-compound-oyan",
+              "in-front-of-sure-babber-s-shop-oyan",
+              "elemoso-isale-compound-oyan",
+              "in-front-of-eesa-s-palace-square-oyan",
+              "1-obitikun-oluoko-area-oyan"
+            ]
+          },
+          {
+            "ward": "olukotun",
+            "polling_units": [
+              "st-peter-s-pry-school-area-inisa-i",
+              "st-peter-s-pry-school-area-inisa-ii",
+              "otepola-s-palace-area-inisa",
+              "in-front-of-pa-adebimpe-s-house-inisa",
+              "idi-ita-compound-area-inisa",
+              "olowuru-compound-inisa",
+              "st-peter-s-pry-school-area-iii-inisa"
+            ]
+          },
+          {
+            "ward": "olunisa",
+            "polling_units": [
+              "inisa-grammar-school-inisa",
+              "s-d-a-pry-school-i-inisa",
+              "post-office-inisa",
+              "adegbite-s-compound-inisa",
+              "akolegbaro-s-compound-inisa",
+              "oba-okunoye-compound-inisa",
+              "oyedele-compound-inisa",
+              "railway-station-road-area-inisa",
+              "24-ikupelete-area-inisa"
+            ]
+          },
+          {
+            "ward": "ore-agbeye",
+            "polling_units": [
+              "st-gabriel-s-pry-school-ore",
+              "town-hall-ore",
+              "all-saints-pry-school-agbeye",
+              "postal-agency-agbeye",
+              "aganju-village-near-agbeye",
+              "open-space-in-front-of-oyadosu-s-house-agbeye"
+            ]
+          },
+          {
+            "ward": "osolo-oparin-ola",
+            "polling_units": [
+              "owode-market-square-oyan",
+              "n-u-d-pry-school-i-oyan",
+              "oparin-aogun-area-oyan",
+              "aade-compound-i-oyan",
+              "jehovah-witness-pry-school-oyan",
+              "lakolu-s-compound-oyan",
+              "st-paul-s-pry-school-oyan",
+              "c-a-c-pry-sch-oyan",
+              "white-house-gbelewale-oke-odo-oyan"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "ola-oluwa",
+        "wards": [
+          {
+            "ward": "ajagba-iwo-oke",
+            "polling_units": [
+              "ajagba-town",
+              "iwooke-town-i",
+              "iwooke-town-ii",
+              "tankoka-village"
+            ]
+          },
+          {
+            "ward": "asa-ajagunlase",
+            "polling_units": [
+              "methodist-pry-school-asa-i",
+              "methodist-pry-school-asa-ii",
+              "baptist-pry-school-asa",
+              "towh-hall-ajagunlase-i",
+              "town-hall-ajagunlase-ii",
+              "idiya-village",
+              "comm-pry-school-ogunja"
+            ]
+          },
+          {
+            "ward": "asamu-ilemowu",
+            "polling_units": [
+              "town-hall-asamu",
+              "baptist-pry-school-ilemowu",
+              "fertilizer-depot"
+            ]
+          },
+          {
+            "ward": "bode-osi",
+            "polling_units": [
+              "town-hall-bode-osi-i",
+              "town-hall-bode-osi-ii",
+              "dispensary-bode-osi",
+              "anglican-pry-school-elepo",
+              "olowe-village",
+              "mowaro-village"
+            ]
+          },
+          {
+            "ward": "ikire-ile-iwara",
+            "polling_units": [
+              "town-hall-ikire-ile",
+              "st-john-s-pry-school-ikire-ile-i",
+              "st-john-s-pry-schol-ikire-ile-ii",
+              "d-c-pry-school-idi-iroko",
+              "amere-village-amere",
+              "d-c-pry-school-iwara"
+            ]
+          },
+          {
+            "ward": "isero-ikonifin",
+            "polling_units": [
+              "town-hall-ikonifin",
+              "baptist-pry-school-ikonifin-i",
+              "baptist-pry-school-ikonifin-ii",
+              "methodist-pry-school-isero-i",
+              "methodist-pry-school-isero-ii",
+              "aba-sade"
+            ]
+          },
+          {
+            "ward": "obamoro-ile-ogo",
+            "polling_units": [
+              "d-c-pry-school-ile-ogo-i",
+              "d-c-pry-school-ile-ogo-ii",
+              "methodist-pry-school-obamoro-i",
+              "methodist-pry-school-obamoro-ii",
+              "comm-pry-school-odoran"
+            ]
+          },
+          {
+            "ward": "ogbaagba-i",
+            "polling_units": [
+              "st-james-pry-school-ogbaagba-i",
+              "st-james-pry-school-ogbaagba-ii",
+              "st-james-pry-school-ogbaagba-iii",
+              "com-pry-school-igege"
+            ]
+          },
+          {
+            "ward": "ogbaagba-ii",
+            "polling_units": [
+              "comm-grammar-school-ogbaagba-i",
+              "comm-grammar-school-ogbaagba-ii",
+              "court-hall-ogbaagba-i",
+              "court-hall-ogbaagba-ii"
+            ]
+          },
+          {
+            "ward": "telemu",
+            "polling_units": [
+              "town-hall-telemu-i",
+              "town-hall-telemu-ii",
+              "d-c-pry-school-telemu-i",
+              "d-c-pry-school-telemu-ii",
+              "opposite-central-mosque-telemu",
+              "near-catholic-hospital-telemu"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "olorunda",
+        "wards": [
+          {
+            "ward": "agowande",
+            "polling_units": [
+              "school-of-nursing",
+              "g-r-a-osogbo",
+              "no-20-b-c-g-a",
+              "23-agowande-street",
+              "k-s-pry-school",
+              "oduola-street-osogbo-i",
+              "oduola-street-osogbo-ii",
+              "oke-onitea-irepodun",
+              "olatunji-ajayi-street",
+              "around-ebenezer-baptist",
+              "church-street",
+              "osunkunle-babalola",
+              "back-of-obelawo-plastic-industry"
+            ]
+          },
+          {
+            "ward": "akogun",
+            "polling_units": [
+              "fadairo-open-space",
+              "oriaye-open-space",
+              "aganna-near-mosque",
+              "arikalamu",
+              "8-arikalamu",
+              "enikanoyun-dispensary",
+              "kolawole-junction",
+              "osefiri-compound",
+              "akogun-maternity",
+              "lasigun-irerinde"
+            ]
+          },
+          {
+            "ward": "atelewo",
+            "polling_units": [
+              "117-sabo-road-osogbo",
+              "opposite-fire-brigade",
+              "49-olugun-street",
+              "olugun-ebu",
+              "asoje-junction",
+              "near-mubarrak-mosque",
+              "abaolu-i-osogbo",
+              "abaolu-ii-osogbo",
+              "akogun-no-1-onto-street",
+              "onimajesin-osogbo",
+              "17b-abija-street"
+            ]
+          },
+          {
+            "ward": "ayetoro",
+            "polling_units": [
+              "dagbolu-village",
+              "kobongbogboe",
+              "otaefun-settlement",
+              "steel-roling-mill",
+              "ajewole-housing-estate",
+              "testing-ground",
+              "iragbiji-road",
+              "olorunsogo-irepodun",
+              "rainbow-ajewole-junction",
+              "kola-balogun-st-marks-school",
+              "kola-balogun-anglican-school",
+              "beside-oloyede-motors"
+            ]
+          },
+          {
+            "ward": "balogun",
+            "polling_units": [
+              "11-ayoola-street",
+              "2-bishop-street",
+              "ago-abodua-near-water-tap",
+              "ogala-s-compound",
+              "all-saints-pry-school",
+              "back-of-all-saint-s-church-street",
+              "opp-nitel-balogun",
+              "woru-oke-s-compound",
+              "21-latona-street",
+              "front-of-emi-abata"
+            ]
+          },
+          {
+            "ward": "ilie",
+            "polling_units": [
+              "popo-ilie-i",
+              "popo-ilie-ii",
+              "st-james-pry-school",
+              "temidire-town-hall",
+              "temidire-cocoa-store",
+              "oloriga-i",
+              "oloriga-ii",
+              "postal-agency",
+              "motor-park-ilie",
+              "ilie-town-hall",
+              "aba-esa"
+            ]
+          },
+          {
+            "ward": "oba-oke",
+            "polling_units": [
+              "idi-ape-oba-oke",
+              "agbede-awoyale",
+              "olukotun-s-compound",
+              "idi-ose-oba-oke",
+              "near-st-peter-pry-school",
+              "st-peter-pry-school",
+              "n-u-d-oba-oke",
+              "idi-emi",
+              "near-garage-oba-oke",
+              "idi-amu",
+              "n-u-d-oke-ore"
+            ]
+          },
+          {
+            "ward": "oba-ile",
+            "polling_units": [
+              "jagun-alala",
+              "odesola",
+              "elemo-s-compound",
+              "frontage-town-hall",
+              "near-maternity",
+              "irepodun-market",
+              "cooperative-store",
+              "jagun-opp-aderemi",
+              "st-john-school",
+              "aderounmu-grammar-school"
+            ]
+          },
+          {
+            "ward": "owode-i",
+            "polling_units": [
+              "cemetary-road",
+              "ile-oluode-atuku",
+              "oluya",
+              "owode",
+              "moja",
+              "obadio-area",
+              "obadio-compound-open-space",
+              "ile-egun",
+              "oluode-market-ile-eja"
+            ]
+          },
+          {
+            "ward": "owode-ii",
+            "polling_units": [
+              "st-james-school-a",
+              "st-james-school-b",
+              "st-james-school-c",
+              "oyinbo-olobi",
+              "in-front-of-old-museum",
+              "a-u-d-sabo",
+              "ile-aganna",
+              "11a-adenle-lane"
+            ]
+          },
+          {
+            "ward": "owoope",
+            "polling_units": [
+              "157-sabo-road",
+              "33-aganna-street",
+              "c-a-c-gbonmi",
+              "iwa-lesin",
+              "frontage-of-women-youth-centre",
+              "4-irepodun-osogbo",
+              "no-14-odo-eran",
+              "hammed-olayiwola-street",
+              "ifaology-i",
+              "ifaology-ii"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "oriade",
+        "wards": [
+          {
+            "ward": "apoti-dagbaja",
+            "polling_units": [
+              "onikoko-pry-school",
+              "community-pry-school-orisunmibare",
+              "rcm-pry-school-apoti",
+              "comm-pry-school-afinbiokin",
+              "health-centre-eti-oni-asalu",
+              "the-apostolic-school-bolorunduro",
+              "comm-pry-school-adedeji-kajola",
+              "all-saints-pry-school-dagbaja",
+              "comm-pry-school-alabameta",
+              "ifelodun-pry-schol-fiade-onigba",
+              "araromi-jeje-community",
+              "the-apostolic-pry-school-orisunmibare",
+              "health-centre-sawe"
+            ]
+          },
+          {
+            "ward": "erin-ijesa",
+            "polling_units": [
+              "united-pry-school-erin-ijesa",
+              "court-hall-erin-ijesa",
+              "igbelayewa-comm",
+              "c-a-c-pry-school-erin-ijesa",
+              "irokin-comm",
+              "afero-comm",
+              "maternity-centre-erin-ijesa",
+              "owode-comm",
+              "powerline-settlement"
+            ]
+          },
+          {
+            "ward": "erin-oke",
+            "polling_units": [
+              "post-office-erin-oke",
+              "dispensary-erin-oke",
+              "a-u-d-pry-school-erin-oke",
+              "alahere-comm",
+              "irepodun-grammar-school-erin-oke",
+              "anglican-pry-school-erin-oke",
+              "market-square",
+              "aramoja-community"
+            ]
+          },
+          {
+            "ward": "erinmo-iwaraja",
+            "polling_units": [
+              "st-peter-pry-school-erinmo",
+              "town-hall-erinmo",
+              "phc-erinmo",
+              "town-hall-iwaraja",
+              "obalufon-quarters-oke-ana",
+              "l-a-pry-school-ijimo",
+              "market-square-omo-ijesa",
+              "araromi-erinmo-community",
+              "oke-odo-isogan-community"
+            ]
+          },
+          {
+            "ward": "ijebu-jesa",
+            "polling_units": [
+              "ijebu-jesa-grammar-school-ijebu-jesa",
+              "african-pry-school-ijebu-jesa",
+              "st-mathew-pry-school-a-ijebu-jesa",
+              "st-mathew-pry-school-b-ijebu-jesa",
+              "the-apostolic-pry-school-ijebu-jesa",
+              "post-office-ijebu-jesa",
+              "dem-pry-school-ijebu-jesa",
+              "towh-hal-ijebu-jesa",
+              "ogunseemi-s-house",
+              "court-hall-ijebu-jesa",
+              "erunkunipe-hall-ijebu-jesa",
+              "c-a-c-pry-school-ijebu-jesa",
+              "opp-cath-church-ijebu-jesa",
+              "ajigiteri-hall-ijebu-jesa",
+              "opp-p-a-oluyemi-s-house"
+            ]
+          },
+          {
+            "ward": "ijeda-iloko",
+            "polling_units": [
+              "u-m-c-pry-school-ijeda",
+              "town-hall-ijeda",
+              "l-a-pry-school-ijeda",
+              "ebenezer-gramm-school-ijeda",
+              "l-a-pry-school-iloko",
+              "health-centre-iloko",
+              "market-square-iloko",
+              "market-square-ois-bus-stop"
+            ]
+          },
+          {
+            "ward": "ijeji-arakeji-owena",
+            "polling_units": [
+              "town-hall-ikeji-arakeji",
+              "st-peter-pry-school-ikeji-arakeji",
+              "front-of-aluko-house",
+              "front-of-ede-oyinbo",
+              "market-square-owena",
+              "the-apostolic-school-owena",
+              "front-of-yakubu-house-oniga",
+              "orita-reserve",
+              "powerline",
+              "imosi-street-junction-ikeji-arakeji"
+            ]
+          },
+          {
+            "ward": "ikeji-ile",
+            "polling_units": [
+              "st-judas-pry-school-ikeji-ile",
+              "market-square-ikeji-ile",
+              "orisakeji-front-ikeji-ile",
+              "araromi-omiran-community"
+            ]
+          },
+          {
+            "ward": "ipetu-ijesa-i",
+            "polling_units": [
+              "rcm-pry-school-ifofin-ipetu",
+              "afinbiokin-hall-ipetuijesa-i",
+              "afinbiokin-hall-ipetu-ijesa-ii",
+              "igando-market-square-ipetu-ijesa",
+              "a-u-d-pry-school-iloro-ipetu-ijesa",
+              "c-a-c-pry-school-anaye-ipetu-ijesa",
+              "aroodo-community-school-ipetu-ijesa",
+              "afinbiokin-market-square-ipetu-ijesa",
+              "front-of-orisatunji-ipetu-ijesa"
+            ]
+          },
+          {
+            "ward": "ipetu-ijesa-ii",
+            "polling_units": [
+              "front-of-town-planning-office",
+              "coop-store-ipetu-ijesa",
+              "town-hall-ipetu-ijesa-i",
+              "tmca-hall-ipetu-ijesa-ii",
+              "elefosan-grammar-school-ipetu-ijesa",
+              "st-andrew-s-pry-school-ipetu-ijesa",
+              "itamerin-front-of-oyesa",
+              "the-apostolic-pry-school-ipeju-ijesa",
+              "cooperative-store-ipetu-ijesa"
+            ]
+          },
+          {
+            "ward": "ira",
+            "polling_units": [
+              "ikeji-ile-high-school",
+              "ilokun-square-ira",
+              "orisunmibare-community",
+              "bolorunduro-aje-community"
+            ]
+          },
+          {
+            "ward": "iwoye",
+            "polling_units": [
+              "town-hall-iwoye",
+              "st-thomas-pry-school-iwoye",
+              "the-apostolic-pry-school-iwoye",
+              "st-stephen-pry-school-ere",
+              "market-square-ere",
+              "maternity-centre-ilo-ayegunle",
+              "comm-pry-school-eti-oni",
+              "olokuta-community"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "orolu",
+        "wards": [
+          {
+            "ward": "olufon-orolu-j",
+            "polling_units": [
+              "abebi-saw-mill",
+              "ikimo-pry-school",
+              "onigari-area",
+              "elepo-square",
+              "asalu-village-open-space",
+              "ologele-pry-school",
+              "idi-iroko-pry-school",
+              "molufon-primary-school",
+              "okiti-pry-school"
+            ]
+          },
+          {
+            "ward": "olufon-orolu-a",
+            "polling_units": [
+              "jamodo-bus-stop",
+              "eesa",
+              "olufon-area-i-open-space",
+              "olufon-area-ii-opp-l-g-library",
+              "olufon-area-iii-aaje-s-compound",
+              "opadeyi-area",
+              "local-govt-library-i-akimo-square",
+              "local-govt-library-ii-akimo-square",
+              "sobaloju-ajibodu-area"
+            ]
+          },
+          {
+            "ward": "olufon-orolu-b",
+            "polling_units": [
+              "aafin-elemu",
+              "olupomu",
+              "obada-babalu",
+              "ikolaba-isogari",
+              "asade",
+              "st-john-s-ang-pry",
+              "ojamolapa",
+              "c-a-c-pry-school",
+              "ejemu",
+              "alata-owoka"
+            ]
+          },
+          {
+            "ward": "olufon-orolu-i",
+            "polling_units": [
+              "fagbon-area",
+              "oke-ola-area",
+              "gbogbo-pry-school",
+              "owode-village",
+              "owode-pry-school-ii",
+              "osun-eesa-village",
+              "alaiko-village",
+              "arohun-village"
+            ]
+          },
+          {
+            "ward": "olufon-orolu-c",
+            "polling_units": [
+              "obada-market-area-i-bus-stop",
+              "obada-market-area-ii",
+              "arowomole-area",
+              "surulere-area",
+              "araromi-area",
+              "mosafejo-area-1",
+              "mosafejo-area-ii",
+              "oroki-area",
+              "asade-area"
+            ]
+          },
+          {
+            "ward": "olufon-orolu-d",
+            "polling_units": [
+              "local-government-junior-staff-quarters-ajegunle-reservour-area",
+              "r-c-m-pry-school-area",
+              "youth-centre",
+              "ayetoro-area",
+              "bolorunduro-i",
+              "bolorunduro-ii",
+              "ayegbami-area",
+              "ifon-erin-gram-school-road"
+            ]
+          },
+          {
+            "ward": "olufon-orolu-e",
+            "polling_units": [
+              "ooye-square",
+              "odofin-area",
+              "laaropo-area",
+              "ajibola-i",
+              "ajibola-ii",
+              "ajibike",
+              "lofintola-square",
+              "alabere"
+            ]
+          },
+          {
+            "ward": "olufon-orolu-f",
+            "polling_units": [
+              "jaleyemi-i",
+              "jaleyemi-area-ii",
+              "dagbolu-area-i",
+              "dagbolu-area-ii",
+              "janta-bus-stop",
+              "a-u-d-pry-school-janta-area",
+              "gbamolu",
+              "faleke-area"
+            ]
+          },
+          {
+            "ward": "olufon-orolu-g",
+            "polling_units": [
+              "elesi-oyegbemi",
+              "elesi-oyewo",
+              "disu-area",
+              "asalu-square",
+              "olurombi",
+              "arenja-oluode",
+              "basorun",
+              "apiponroro"
+            ]
+          },
+          {
+            "ward": "olufon-orolu-h",
+            "polling_units": [
+              "kajola-village",
+              "apena-village",
+              "egan-aaje-village",
+              "idi-iya-village",
+              "idi-iroko-abepe-kajola",
+              "isangbe-elegudu"
+            ]
+          }
+        ]
+      },
+      {
+        "lga": "osogbo",
+        "wards": [
+          {
+            "ward": "alagba",
+            "polling_units": [
+              "iya-dudu-compound",
+              "5-ibokun-road-i",
+              "5-ibokun-road-ii",
+              "20-ibokun-road",
+              "73-ita-olokan",
+              "53-ita-olokan",
+              "igbalaye-s-house-front",
+              "lawanson-aresa",
+              "4-kajola-street",
+              "11-kajola-street",
+              "10-iya-dudu-compound",
+              "13-idi-ogun-oja-oba",
+              "73-aresa-street",
+              "igbalaye-comp-premises",
+              "25-ita-olookan-street",
+              "19-ita-olokan",
+              "16-ibokun-road"
+            ]
+          },
+          {
+            "ward": "are-ago",
+            "polling_units": [
+              "15-ifelodun-lane",
+              "10-isale-agbara",
+              "oluode-aranyin",
+              "john-mackay-school",
+              "80-ita-olookan-street",
+              "8-oke-ayepe-street",
+              "st-charles-school",
+              "owode-village-i",
+              "owode-village-ii",
+              "l-a-pry-school-oluode-aranyin",
+              "3-oke-ayepe",
+              "costain-maternity-l-g"
+            ]
+          },
+          {
+            "ward": "ataoja-a",
+            "polling_units": [
+              "6-winjobi-street",
+              "8-laro-street",
+              "26-laro-street",
+              "5-laro-street",
+              "6-laro-street",
+              "farm-settlement",
+              "lasinmi-village-i",
+              "lasinmi-village-ii",
+              "ajenisua-pry-school-i",
+              "ajenisua-pry-school-ii",
+              "1-okanla-street",
+              "11-okanla-street",
+              "1-asubiaro-street",
+              "1-ababu-street",
+              "irepodun-village",
+              "4-winjobi-street"
+            ]
+          },
+          {
+            "ward": "ataoja-b",
+            "polling_units": [
+              "ifelodun-street",
+              "13-ababu-street",
+              "19-ababu-street",
+              "5-ifelodun-street",
+              "5-ifelodung-street-ii",
+              "14-igbofidudu-idi-oro",
+              "a-u-d-isale-osun-1",
+              "a-u-d-pry-isale-osun-ii",
+              "a-u-d-isale-osun-iii",
+              "14-ifelodun-lane"
+            ]
+          },
+          {
+            "ward": "ataoja-c",
+            "polling_units": [
+              "19-timehin-street",
+              "30-timehin-street",
+              "7-eesa-olugbede",
+              "13-atanka-street",
+              "22-esa-olugbede",
+              "akinloye-mosque-area",
+              "5-asubiaro-street",
+              "19-asubiaro-street",
+              "30-asubiaro-street",
+              "l-a-school-laro-i",
+              "l-a-pry-school-laro-ii",
+              "apoun-bapt-pry-school-i",
+              "apoun-bapt-pry-school-ii",
+              "20-eesa-olugbede",
+              "girl-s-high-school-osogbo-i",
+              "girl-s-high-school-osogbo-ii"
+            ]
+          },
+          {
+            "ward": "ataoja-d",
+            "polling_units": [
+              "opp-7-up-gbongan-road",
+              "ogo-oluwa-kitan-i",
+              "ogo-oluwa-kitan-ii",
+              "c-a-c-araromi",
+              "l-g-dispensary",
+              "union-bapt-school",
+              "african-pry-school-i",
+              "african-pry-school-ii",
+              "matanmi-market-behind-transformer",
+              "13-surulere-street",
+              "isale-aro-postal-agency",
+              "kaka-area-postal-agency",
+              "fagbesa-street",
+              "24-fagbesa-street",
+              "african-church-pry-school",
+              "6-fagbesa-street",
+              "1a-ekotedo-street",
+              "alhaji-woleola-junction",
+              "alhaji-woleola-junction-ii",
+              "opposite-old-governor-s-office",
+              "20-kaka-street-osogbo",
+              "akowonjo-opp-old-waec-office"
+            ]
+          },
+          {
+            "ward": "ataoja-e",
+            "polling_units": [
+              "technical-college-osogbo",
+              "osogbo-grammar-school",
+              "oroki-estate",
+              "ogidan-pry-school",
+              "salvation-army-pry-school",
+              "5-lucy-adeoti-street",
+              "odofin-peter-ajibola",
+              "20-akindeko-street",
+              "20-akindeko-street-opp",
+              "8-iso-pako-i",
+              "8-iso-pako-ii",
+              "tinumola-pry-school",
+              "women-commission",
+              "27-akindeko-street",
+              "frontage-of-nepa-office",
+              "opp-technical-college",
+              "adewole-street",
+              "alekuwodo-premises",
+              "okin-street-behind-capital-hotel",
+              "railway-station-oke-fia"
+            ]
+          },
+          {
+            "ward": "baba-kekere",
+            "polling_units": [
+              "near-matanmi-mosque",
+              "13-agboyele-street",
+              "ori-eru-oke-baale",
+              "12-matanmi-street",
+              "24-okoki-ifedodun",
+              "15-oroki-ifelodun",
+              "12-oke-imole-street",
+              "18-fagbemi-street",
+              "st-andrew-pry-school",
+              "ojude-oga",
+              "owolabi-street-obatedo",
+              "front-of-ile-idi-oke",
+              "5-fagbemi-street",
+              "opp-28-fagbemi",
+              "oke-imole-i",
+              "l-a-gbeja",
+              "oke-imole-ii"
+            ]
+          },
+          {
+            "ward": "ekerin",
+            "polling_units": [
+              "11-olugun-street",
+              "31-ibokun-road",
+              "opp-olomu-mosque",
+              "opp-22a-olugun-street",
+              "6-olugun-lane",
+              "opp-6-olugun-lane",
+              "25-ibokun-road",
+              "idiomo-mosque-area",
+              "30-olugun-street",
+              "40-olugun-street",
+              "olomu-mosque-premises",
+              "30-ibokun-road",
+              "22-olugun-street"
+            ]
+          },
+          {
+            "ward": "eketa",
+            "polling_units": [
+              "1-akepe-street",
+              "22-akepe-street",
+              "12-kujenyo-street",
+              "10-kujenyo-street",
+              "44-ologun-street",
+              "opp-31-olugun-street",
+              "25-akepe-street",
+              "40-olugun-street",
+              "20-olugun-street",
+              "5-kujenyo-street",
+              "22-olugun-street",
+              "8-kujenyo-street",
+              "18-akepe-street"
+            ]
+          },
+          {
+            "ward": "jagun-a",
+            "polling_units": [
+              "32-kajola-street",
+              "public-toilet-area-kajola",
+              "37-ibokun-road",
+              "24-olugunna-street",
+              "43-ibokun-road",
+              "22-olugunna-street",
+              "35-ibokun-road",
+              "60-ibokun-road-i",
+              "60-ibokun-road-ii",
+              "opp-24-olugunna-street"
+            ]
+          },
+          {
+            "ward": "jagun-b",
+            "polling_units": [
+              "24-okunmebo-street",
+              "16-ikolaba-street",
+              "19-kajola-street",
+              "jimmy-radio-i",
+              "jimmy-radio-ii",
+              "14-areruwe-hotel",
+              "gidado-mosque-area-i",
+              "gidado-mosque-area-ii",
+              "2a-okunmebo-street-ii",
+              "4-ikolaba-street",
+              "aladorin-compound"
+            ]
+          },
+          {
+            "ward": "otun-balogun-a",
+            "polling_units": [
+              "n-u-d-pry-school-gbonmi-i",
+              "n-u-d-pry-school-gbonmi-ii",
+              "n-u-d-pry-school-gbonmi-iii",
+              "l-g-dispensary-gbomi",
+              "l-a-pry-school-i",
+              "l-a-pry-school-ii",
+              "5a-owolabi-street",
+              "15-alie-junction",
+              "front-alapasa-mosque-i",
+              "fiwasaye-maternity-centre",
+              "gbadebo-street-behind-a-u-d-pry-school-i",
+              "gbadebo-street-behind-a-u-d-pry-school-ii",
+              "6-owolabi-street",
+              "l-g-market-gbonmi",
+              "15-alie-junction-opp",
+              "l-g-staff-quarters",
+              "front-of-alapasa-mosque-ii"
+            ]
+          },
+          {
+            "ward": "otun-hagun-b",
+            "polling_units": [
+              "aro-oke-compound",
+              "bapt-school-okanla",
+              "isale-aro-salvation-army-i",
+              "isale-aro-salvation-army-ii",
+              "isale-aro-salvation-army-iii",
+              "isale-aro-salvation-army-iv",
+              "isale-aro-salvation-army-v",
+              "akolu-compound",
+              "oderinlo-compound-i",
+              "oderinlo-compound-ii",
+              "st-benedict-school-a",
+              "methodist-school-isale-aro-i",
+              "methodist-school-isale-aro-ii",
+              "st-benedict-school-b"
+            ]
+          },
+          {
+            "ward": "otun-jagun-a",
+            "polling_units": [
+              "opp-catholic-church",
+              "20-oke-popo-street",
+              "iyiola-special-bread-i",
+              "iyiola-special-bread-ii",
+              "8-eesa-binuyo-street",
+              "5-idi-omo-street-1",
+              "back-of-grd-c2-court",
+              "near-aronmu-bakery",
+              "5-idi-omo-street-ii",
+              "50-sabo-road",
+              "15-oke-popo-street",
+              "eesa-binuyo-street"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

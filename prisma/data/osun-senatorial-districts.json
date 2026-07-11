@@ -1,0 +1,38 @@
+{
+  "Osun East": [
+    "atakumosa-east",
+    "atakumosa-west",
+    "ife-central",
+    "ife-east",
+    "ife-north",
+    "ife-south",
+    "ilesa-east",
+    "ilesa-west",
+    "obokun",
+    "oriade"
+  ],
+  "Osun West": [
+    "ayedaade",
+    "ayedire",
+    "ede-north",
+    "ede-south",
+    "egbedore",
+    "ejigbo",
+    "irewole",
+    "isokan",
+    "iwo",
+    "ola-oluwa"
+  ],
+  "Osun Central": [
+    "boluwaduro",
+    "boripe",
+    "ifedayo",
+    "ifelodun",
+    "ila",
+    "irepodun",
+    "odo-otin",
+    "olorunda",
+    "orolu",
+    "osogbo"
+  ]
+}

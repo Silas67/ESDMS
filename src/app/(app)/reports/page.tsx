@@ -17,6 +17,8 @@ import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { CoverageBreakdownTable } from "@/components/reports/coverage-breakdown-table";
 import { CoverageGapsTable } from "@/components/reports/coverage-gaps-table";
+import { OsunElectionSection } from "@/components/reports/osun-election-section";
+import { getOsunElectionReadiness } from "@/lib/data/osun-election";
 
 export const metadata: Metadata = {
   title: "Reports — ESDMS",
@@ -40,11 +42,18 @@ export default async function ReportsPage({
   const { page: pageParam, q } = await searchParams;
   const page = Math.max(1, Number(pageParam) || 1);
 
-  const [summary, breakdown, gaps] = await Promise.all([
+  const [summary, breakdown, gaps, osunReadiness] = await Promise.all([
     getCoverageSummary(scope),
     getCoverageBreakdown(scope),
     getCoverageGaps({ scope, page, q }),
+    getOsunElectionReadiness(),
   ]);
+
+  const showOsunSection =
+    !!osunReadiness &&
+    (user.role === "IGP" ||
+      (user.role === "AIG" && user.zoneId === osunReadiness.zoneId) ||
+      (user.role === "CP" && user.stateId === osunReadiness.stateId));
 
   const groupLabel = user.role === "IGP" || user.role === "AIG" ? "State" : "LGA";
   const totalGapPages = Math.max(1, Math.ceil(gaps.total / gaps.pageSize));
@@ -78,6 +87,8 @@ export default async function ReportsPage({
           </Card>
         ))}
       </div>
+
+      {showOsunSection && osunReadiness && <OsunElectionSection data={osunReadiness} />}
 
       <div className="flex flex-col gap-3">
         <h2 className="font-heading text-lg font-semibold text-primary">

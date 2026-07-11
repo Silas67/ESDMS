@@ -51,14 +51,19 @@ model State {
 }
 
 model LGA {
-  id           String        @id @default(cuid())
-  name         String
-  stateId      String
-  state        State         @relation(fields: [stateId], references: [id])
-  pollingUnits PollingUnit[]
-  divisions    Division[]
+  id                 String        @id @default(cuid())
+  name               String
+  stateId            String
+  state              State         @relation(fields: [stateId], references: [id])
+  pollingUnits       PollingUnit[]
+  divisions          Division[]
+  // Nigeria's senatorial districts group LGAs within a state (3 per state,
+  // 1 Senate seat each). Not every state has this populated yet — it's
+  // filled in state-by-state as needed for reporting, starting with Osun.
+  senatorialDistrict String?
 
   @@index([stateId])
+  @@index([senatorialDistrict])
 }
 
 model Division {
